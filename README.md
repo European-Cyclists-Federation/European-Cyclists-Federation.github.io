@@ -19,25 +19,10 @@ Example 2. Embed the maps here.
 <iframe src="https://ajchavez94.github.io/Europe_map_A.html" height="200" width="300" name="iframe_a" title="Iframe Example"></iframe>
 
 
-## Running the tests
+## Results at country level
 
 Explain how to run the automated tests for this system
 
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
 
 ## Built With
 
@@ -46,25 +31,16 @@ Add additional notes to deploy this on a live system
   - [Creative Commons](https://creativecommons.org/) - Used to choose
     the license
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
+  - **Aleksander Buczyński** - *Provided README Template* -
+    [PurpleBooth](https://github.com/PurpleBooth)
+    **Andrea Chavez-Pacheco** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of
 [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+who participated in this project. Agilitic?
 
 ## License
 
