@@ -16,7 +16,7 @@ Example 1. Add maps by link
 -
 - 
 Example 2. Embed the maps here.
-<iframe src="https://ajchavez94.github.io/Europe_map_A.html" height="200" width="300" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Europe_map_A.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 
 
 ## Results at country level
