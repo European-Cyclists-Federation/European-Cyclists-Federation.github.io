@@ -12,10 +12,11 @@ Add brief explanation on the methodology with a link to download it.
 ### European Level Results
 
 Example 1. Add maps by link 
-- [Total Cycle Infraestructure]()
-- [Example 2](https://www.example.com)
-
-<iframe src="https://cyclehighways.eu/fileadmin/user_upload/HTML/Europe_Map_A.html" name="iframe_a" title="Iframe Example"></iframe>
+- [Total Cycle Infraestructure](Europe_map_A.html)
+- [Map 2 ](https://www.example.com)
+- 
+Example 2. Embed the maps here.
+<iframe src="Europe_Map_A.html" name="iframe_a" title="Iframe Example"></iframe>
 
 
 ## Running the tests
