@@ -3,4 +3,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Welcome to the ECF QECIO 2.0]
-description: [Testing website]
+description: [We are back with the second edition of Quantifying Europe’s Cycling Infrastructure using OpenStreetMap! Following the ECF analysis of cycling infrastructure in 500+ cities in 2022, we generalised the methodology to cover most of Europe, took into account additional infrastructure types and provided additional statistics.]
+logo: /assets/img/logo.png
+
+
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
