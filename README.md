@@ -62,9 +62,6 @@ Slovenia
 Spain
 Sweden
 
-Other countries of the EU also include:
-the Canary Islands
-
 ## Built With
 
   - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
