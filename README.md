@@ -14,28 +14,27 @@ Add brief explanation on the methodology with a link to download it.
 ### European Level Results
 
 - [Total Cycle Infraestructure](Europe_map_A.html)
-<iframe src="https://ajchavez94.github.io/Europe_map_A.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 
 - [Cycle Tracks](Europe_map_B.html)
-<iframe src="https://ajchavez94.github.io/Europe_map_B.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_B.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 
 - [Aditional Data](Europe_map_C.html)
-<iframe src="https://ajchavez94.github.io/Europe_map_C.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_C.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 
 - [Contraflow cycling](Europe_map_D.html)
-<iframe src="https://ajchavez94.github.io/Europe_map_D.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_D.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 ## Results at country level
 
 ### Country Results
 
 Maps avalaible for each countries of the European Union (EU) are:
-
-*[Austria]
-  - Map A
-  - Map B
-  - Map C
-  - Map D
-*[Belgium]
+- Austria
+  - [Map A] https://ajchavez94.github.io/Countries/AT_map_A.html
+  - [Map B] https://ajchavez94.github.io/Countries/AT_map_A.html
+  - [Map C] https://ajchavez94.github.io/Countries/AT_map_A.html
+  - [Map D] https://ajchavez94.github.io/Countries/AT_map_A.html
+- Belgium
   -
 Bulgaria
 Croatia
