@@ -11,17 +11,68 @@ Add brief explanation on the methodology with a link to download it.
 
 ### European Level Results
 
-Example 1. Add maps by link 
 - [Total Cycle Infraestructure](Europe_map_A.html)
--
-- 
-Example 2. Embed the maps here.
 <iframe src="https://ajchavez94.github.io/Europe_map_A.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 
+- [Cycle Tracks](Europe_map_B.html)
+<iframe src="https://ajchavez94.github.io/Europe_map_B.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 
+- [Aditional Data](Europe_map_C.html)
+<iframe src="https://ajchavez94.github.io/Europe_map_C.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+
+- [Contraflow cycling](Europe_map_D.html)
+<iframe src="https://ajchavez94.github.io/Europe_map_D.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 ## Results at country level
 
-Explain how to run the automated tests for this system
+### Country Results
+
+Maps avalaible for each countries of the European Union (EU) are:
+
+*[Austria]
+  - Map A
+  - Map B
+  - Map C
+  - Map D
+*[Belgium]
+  -
+Bulgaria
+Croatia
+Cyprus*
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+The Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+The countries of the EU also include:
+
+the Åland Islands
+the Azores
+the Canary Islands
+French Guiana
+Gibraltar
+Guadeloupe
+Madeira
+Martinique
+Mayotte
+Réunion
+Saint Martin
 
 
 ## Built With
