@@ -61,20 +61,9 @@ Slovakia
 Slovenia
 Spain
 Sweden
-The countries of the EU also include:
 
-the Åland Islands
-the Azores
+Other countries of the EU also include:
 the Canary Islands
-French Guiana
-Gibraltar
-Guadeloupe
-Madeira
-Martinique
-Mayotte
-Réunion
-Saint Martin
-
 
 ## Built With
 
