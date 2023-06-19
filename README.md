@@ -1,6 +1,8 @@
 # Quantifying Europe’s Cycling Infrastructure using OpenStreetMap (QECIO) 
 
-There is a great demand for data on cycling infrastructure, but as for now, no official source provides this kind of information on a European scale. This data project responds to this need by extracting data about cycling infrastructure from OpenStreetMap (OSM) for 500+ European cities.
+There is a great demand for data on cycling infrastructure, but as for now, no official source provides this kind of information on a European scale. This data project responds to this need by extracting data about cycling infrastructure from OpenStreetMap (OSM) for 500+ European cities. We generalised the methodology to cover most of Europe, took into account additional infrastructure types and provided additional statistics.
+
+This project correspond to second edition, to access the data from previos year click [here](https://datastudio.google.com/u/0/reporting/81d2904d-7db5-4ed5-98e0-85af75b46577/page/p_qsvwe0yluc).
 
 Do not forget to visit of website
 [ECF](https://ecf.com/). 
