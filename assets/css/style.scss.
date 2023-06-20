@@ -1,14 +1,14 @@
 ---
 ---
+
+@import "{{ site.theme }}";
 section {
   width:100px;
-  float:right;
+  float:left;
   padding-bottom:100px;
 }
 
 small {
   font-size:101px;
 }
-@import "{{ site.theme }}";
-
 
