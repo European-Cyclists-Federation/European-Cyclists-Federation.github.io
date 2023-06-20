@@ -48,7 +48,7 @@ Add brief explanation on the methodology with a link to download it.
 [Map B](https://ajchavez94.github.io/Countries/BG_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/BG_map_C.html)
 [Map D](https://ajchavez94.github.io/Countries/BG_map_D.html)
--switzerland
+- Switzerland
 [Map A](https://ajchavez94.github.io/Countries/CH_map_A.html)
 [Map B](https://ajchavez94.github.io/Countries/CH_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/CH_map_C.html)
@@ -58,7 +58,7 @@ Add brief explanation on the methodology with a link to download it.
 [Map B](https://ajchavez94.github.io/Countries/CY_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/CY_map_C.html)
 [Map D](https://ajchavez94.github.io/Countries/CY_map_D.html)
-- czech_republic
+- Czech_republic
 [Map A](https://ajchavez94.github.io/Countries/CZ_map_A.html)
 [Map B](https://ajchavez94.github.io/Countries/CZ_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/CZ_map_C.html)
@@ -93,12 +93,12 @@ Add brief explanation on the methodology with a link to download it.
 [Map B](https://ajchavez94.github.io/Countries/ES_canary_islands_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/ES_canary_islands_map_C.html)
 [Map D](https://ajchavez94.github.io/Countries/ES_canary_islands_map_D.html)
-- finland
+- Finland
 [Map A](https://ajchavez94.github.io/Countries/FI_map_A.html)
 [Map B](https://ajchavez94.github.io/Countries/FI_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/FI_map_C.html)
 [Map D](https://ajchavez94.github.io/Countries/FI_map_D.html)
-- france
+- France
 [Map A](https://ajchavez94.github.io/Countries/FR_map_A.html)
 [Map B](https://ajchavez94.github.io/Countries/FR_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/FR_map_C.html)
@@ -113,7 +113,7 @@ Add brief explanation on the methodology with a link to download it.
 [Map B](https://ajchavez94.github.io/Countries/HU_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/HU_map_C.html)
 [Map D](https://ajchavez94.github.io/Countries/HU_map_D.html)
-- ireland_and_northern_ireland
+- Ireland
 [Map A](https://ajchavez94.github.io/Countries/IE_map_A.html)
 [Map B](https://ajchavez94.github.io/Countries/IE_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/IE_map_C.html)
@@ -163,17 +163,17 @@ Add brief explanation on the methodology with a link to download it.
 [Map B](https://ajchavez94.github.io/Countries/MT_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/MT_map_C.html)
 [Map D](https://ajchavez94.github.io/Countries/MT_map_D.html)
-- netherlands
+- Netherlands
 [Map A](https://ajchavez94.github.io/Countries/NL_map_A.html)
 [Map B](https://ajchavez94.github.io/Countries/NL_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/NL_map_C.html)
 [Map D](https://ajchavez94.github.io/Countries/NL_map_D.html)
-- norway
+- Norway
 [Map A](https://ajchavez94.github.io/Countries/NO_map_A.html)
 [Map B](https://ajchavez94.github.io/Countries/NO_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/NO_map_C.html)
 [Map D](https://ajchavez94.github.io/Countries/NO_map_D.html)
-- poland
+- Poland
 [Map A](https://ajchavez94.github.io/Countries/PL_map_A.html)
 [Map B](https://ajchavez94.github.io/Countries/PL_map_B.html)
 [Map C](https://ajchavez94.github.io/Countries/PL_map_C.html)
