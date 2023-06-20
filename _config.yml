@@ -6,8 +6,4 @@ logo: /ecf.jpg
 show_downloads: True
 google_analytics: 
 
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: jekyll-theme-minimal
