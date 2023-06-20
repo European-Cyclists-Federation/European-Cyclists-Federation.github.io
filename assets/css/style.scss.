@@ -1,7 +1,5 @@
 ---
 ---
-
-@import "{{ site.theme }}";
 section {
   width:100px;
   float:right;
@@ -11,3 +9,6 @@ section {
 small {
   font-size:101px;
 }
+@import "{{ site.theme }}";
+
+
