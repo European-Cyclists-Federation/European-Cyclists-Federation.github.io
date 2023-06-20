@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+section {
+  width:100px;
+  float:right;
+  padding-bottom:100px;
+}
+
+small {
+  font-size:101px;
+}
