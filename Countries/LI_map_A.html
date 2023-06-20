@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6d72936d3ccf9f62415b9ddb07aea819 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    
+                    <style>
+                        .foliumtooltip {
+                            
+                            background-color: #F0EFEF;
+                            border: 2px solid black;
+                            border-radius: 3px;
+                            box-shadow: 3px;
+                        
+                        }
+                       .foliumtooltip table{
+                            margin: auto;
+                        }
+                        .foliumtooltip tr{
+                            text-align: left;
+                        }
+                        .foliumtooltip th{
+                            padding: 2px; padding-right: 8px;
+                        }
+                    </style>
+            
+    
+            <style> #vega_lite_2f446703e6e4faee3808b28252d44fe1 {
+                position : relative;
+                width : 500.0px;
+                height: 250.0px;
+                left: 0.0%;
+                top: 0.0%;
+            </style>
+            
+    <script src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-minimap/3.6.1/Control.MiniMap.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-minimap/3.6.1/Control.MiniMap.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_6d72936d3ccf9f62415b9ddb07aea819" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6d72936d3ccf9f62415b9ddb07aea819 = L.map(
+                "map_6d72936d3ccf9f62415b9ddb07aea819",
+                {
+                    center: [47.211002255972986, 9.54574503587734],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6.5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                    overlay: false,
+                }
+            );
+            L.control.scale().addTo(map_6d72936d3ccf9f62415b9ddb07aea819);
+
+            
+
+        
+    
+            var tile_layer_9beea14f421ddb48967a4c40b5ecf175 = L.tileLayer(
+                "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca target=\"_blank\" href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca target=\"_blank\" href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_6d72936d3ccf9f62415b9ddb07aea819);
+        
+    
+            var tile_layer_831a42508d89b2c2cd769e6abaec98ea = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_6d72936d3ccf9f62415b9ddb07aea819);
+        
+    
+            var feature_group_54d92dad3231b99d0ac75b28e4d4ce39 = L.featureGroup(
+                {}
+            ).addTo(map_6d72936d3ccf9f62415b9ddb07aea819);
+        
+    
+        function geo_json_50511ce0b9aa10b38bf7dddb74d5b156_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "", "fillColor": "#ce1256", "fillOpacity": 0.7, "opacity": 0.5, "weight": 1};
+            }
+        }
+        function geo_json_50511ce0b9aa10b38bf7dddb74d5b156_highlighter(feature) {
+            switch(feature.id) {
+                default:
+                    return {"fillOpacity": 0.8999999999999999, "weight": 3};
+            }
+        }
+
+        function geo_json_50511ce0b9aa10b38bf7dddb74d5b156_onEachFeature(feature, layer) {
+            layer.on({
+                mouseout: function(e) {
+                    if(typeof e.target.setStyle === "function"){
+                        geo_json_50511ce0b9aa10b38bf7dddb74d5b156.resetStyle(e.target);
+                    }
+                },
+                mouseover: function(e) {
+                    if(typeof e.target.setStyle === "function"){
+                        const highlightStyle = geo_json_50511ce0b9aa10b38bf7dddb74d5b156_highlighter(e.target.feature)
+                        e.target.setStyle(highlightStyle);
+                    }
+                },
+            });
+        };
+        var geo_json_50511ce0b9aa10b38bf7dddb74d5b156 = L.geoJson(null, {
+                onEachFeature: geo_json_50511ce0b9aa10b38bf7dddb74d5b156_onEachFeature,
+            
+                style: geo_json_50511ce0b9aa10b38bf7dddb74d5b156_styler,
+        });
+
+        function geo_json_50511ce0b9aa10b38bf7dddb74d5b156_add (data) {
+            geo_json_50511ce0b9aa10b38bf7dddb74d5b156
+                .addData(data)
+                .addTo(feature_group_54d92dad3231b99d0ac75b28e4d4ce39);
+        }
+            geo_json_50511ce0b9aa10b38bf7dddb74d5b156_add({"bbox": [9.472197, 47.049326, 9.635077, 47.270581], "features": [{"bbox": [9.472197, 47.049326, 9.635077, 47.270581], "geometry": {"coordinates": [[[9.620581, 47.151645], [9.62498, 47.145716], [9.625193, 47.133111], [9.63356, 47.127167], [9.624739, 47.117995], [9.624504, 47.114788], [9.624001, 47.113397], [9.620834, 47.110545], [9.634212, 47.10074], [9.635077, 47.090344], [9.632264, 47.083557], [9.623981, 47.08226], [9.618326, 47.078635], [9.611518, 47.079412], [9.612546, 47.067982], [9.607078, 47.060774], [9.602818, 47.061894], [9.587708, 47.055177], [9.556852, 47.049326], [9.552006, 47.057869], [9.539752, 47.065144], [9.530543, 47.063036], [9.511717, 47.057583], [9.500944, 47.057113], [9.497184, 47.055251], [9.492333, 47.056546], [9.484695, 47.050561], [9.479731, 47.055789], [9.476048, 47.051797], [9.472235, 47.061295], [9.472197, 47.063077], [9.472972, 47.064422], [9.474911, 47.06589], [9.512247, 47.085359], [9.514393, 47.086679], [9.515607, 47.08843], [9.519492, 47.097196], [9.520344, 47.10015], [9.52005, 47.10343], [9.517157, 47.115126], [9.51522, 47.121946], [9.509579, 47.139024], [9.503738, 47.147221], [9.499403, 47.151789], [9.495433, 47.156944], [9.486204, 47.178325], [9.487608, 47.190294], [9.489308, 47.19605], [9.490224, 47.198247], [9.49612, 47.206707], [9.499111, 47.210649], [9.499637, 47.212646], [9.500151, 47.216056], [9.501346, 47.219966], [9.502723, 47.222793], [9.50427, 47.224908], [9.510388, 47.23178], [9.521243, 47.245908], [9.529044, 47.26213], [9.529812, 47.269381], [9.530749, 47.270581], [9.538915, 47.265069], [9.541638, 47.260064], [9.555703, 47.252694], [9.566843, 47.241872], [9.557584, 47.231481], [9.554184, 47.223703], [9.559853, 47.223268], [9.56961, 47.218857], [9.58481, 47.20457], [9.579293, 47.1951], [9.573529, 47.191102], [9.573165, 47.187838], [9.573024, 47.176493], [9.566631, 47.172701], [9.564655, 47.170305], [9.566316, 47.169833], [9.57276, 47.169541], [9.575076, 47.169807], [9.579458, 47.171133], [9.590928, 47.164685], [9.599076, 47.160595], [9.606598, 47.148748], [9.614354, 47.148053], [9.620581, 47.151645]]], "type": "Polygon"}, "id": "0", "properties": {"CNTR_CODE": "LI", "COAST_TYPE": 3, "LEVL_CODE": 3, "MOUNT_TYPE": 3, "NAME_LATN": "Liechtenstein", "NUTS_ID": "LI000", "NUTS_NAME": "Liechtenstein", "URBN_TYPE": 1}, "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+        function geo_json_d02e791895ae230259edcf3dd503fd49_styler(feature) {
+            switch(feature.id) {
+                default:
+                    return {"color": "black", "fillColor": "transparent", "weight": 0.5};
+            }
+        }
+        function geo_json_d02e791895ae230259edcf3dd503fd49_highlighter(feature) {
+            switch(feature.id) {
+                default:
+                    return {"fillColor": "grey", "weight": 3};
+            }
+        }
+
+        function geo_json_d02e791895ae230259edcf3dd503fd49_onEachFeature(feature, layer) {
+            layer.on({
+                mouseout: function(e) {
+                    if(typeof e.target.setStyle === "function"){
+                        geo_json_d02e791895ae230259edcf3dd503fd49.resetStyle(e.target);
+                    }
+                },
+                mouseover: function(e) {
+                    if(typeof e.target.setStyle === "function"){
+                        const highlightStyle = geo_json_d02e791895ae230259edcf3dd503fd49_highlighter(e.target.feature)
+                        e.target.setStyle(highlightStyle);
+                    }
+                },
+            });
+        };
+        var geo_json_d02e791895ae230259edcf3dd503fd49 = L.geoJson(null, {
+                smoothFactor: 2,
+                onEachFeature: geo_json_d02e791895ae230259edcf3dd503fd49_onEachFeature,
+            
+                style: geo_json_d02e791895ae230259edcf3dd503fd49_styler,
+        });
+
+        function geo_json_d02e791895ae230259edcf3dd503fd49_add (data) {
+            geo_json_d02e791895ae230259edcf3dd503fd49
+                .addData(data)
+                .addTo(geo_json_50511ce0b9aa10b38bf7dddb74d5b156);
+        }
+            geo_json_d02e791895ae230259edcf3dd503fd49_add({"bbox": [9.472197, 47.049326, 9.635077, 47.270581], "features": [{"bbox": [9.472197, 47.049326, 9.635077, 47.270581], "geometry": {"coordinates": [[[9.620581, 47.151645], [9.62498, 47.145716], [9.625193, 47.133111], [9.63356, 47.127167], [9.624739, 47.117995], [9.624504, 47.114788], [9.624001, 47.113397], [9.620834, 47.110545], [9.634212, 47.10074], [9.635077, 47.090344], [9.632264, 47.083557], [9.623981, 47.08226], [9.618326, 47.078635], [9.611518, 47.079412], [9.612546, 47.067982], [9.607078, 47.060774], [9.602818, 47.061894], [9.587708, 47.055177], [9.556852, 47.049326], [9.552006, 47.057869], [9.539752, 47.065144], [9.530543, 47.063036], [9.511717, 47.057583], [9.500944, 47.057113], [9.497184, 47.055251], [9.492333, 47.056546], [9.484695, 47.050561], [9.479731, 47.055789], [9.476048, 47.051797], [9.472235, 47.061295], [9.472197, 47.063077], [9.472972, 47.064422], [9.474911, 47.06589], [9.512247, 47.085359], [9.514393, 47.086679], [9.515607, 47.08843], [9.519492, 47.097196], [9.520344, 47.10015], [9.52005, 47.10343], [9.517157, 47.115126], [9.51522, 47.121946], [9.509579, 47.139024], [9.503738, 47.147221], [9.499403, 47.151789], [9.495433, 47.156944], [9.486204, 47.178325], [9.487608, 47.190294], [9.489308, 47.19605], [9.490224, 47.198247], [9.49612, 47.206707], [9.499111, 47.210649], [9.499637, 47.212646], [9.500151, 47.216056], [9.501346, 47.219966], [9.502723, 47.222793], [9.50427, 47.224908], [9.510388, 47.23178], [9.521243, 47.245908], [9.529044, 47.26213], [9.529812, 47.269381], [9.530749, 47.270581], [9.538915, 47.265069], [9.541638, 47.260064], [9.555703, 47.252694], [9.566843, 47.241872], [9.557584, 47.231481], [9.554184, 47.223703], [9.559853, 47.223268], [9.56961, 47.218857], [9.58481, 47.20457], [9.579293, 47.1951], [9.573529, 47.191102], [9.573165, 47.187838], [9.573024, 47.176493], [9.566631, 47.172701], [9.564655, 47.170305], [9.566316, 47.169833], [9.57276, 47.169541], [9.575076, 47.169807], [9.579458, 47.171133], [9.590928, 47.164685], [9.599076, 47.160595], [9.606598, 47.148748], [9.614354, 47.148053], [9.620581, 47.151645]]], "type": "Polygon"}, "id": "0", "properties": {"Area": 160.025, "CNTR_CODE": "LI", "COAST_TYPE": 3, "City": "Liechtenstein", "Country": "LI", "Date": "2023-06-14 09:12", "LEVL_CODE": 3, "Lat, Lon": "47.158769500000005, 9.547440047247868", "MOUNT_TYPE": 3, "NAME_LATN": "Liechtenstein", "NUTS_ID": "LI000", "NUTS_NAME": "Liechtenstein", "URBN_TYPE": 1, "local-contra": 0.319, "local-oneway": 2.686, "local-twoway": 263.843, "overview-busways-km": 0.49, "overview-cycle_lanes-km": 4.159, "overview-cycle_streets-km": 0.0, "overview-cycle_tracks-km": 36.355, "overview-ext-cycle-infrastructure": 102.508, "overview-limited-access-km": 35.888, "overview-local-road-network": 266.847, "overview-main-road-network": 88.235, "overview-shared_pedestrians-km": 25.616, "overview-total-cycle-infrastructure": 102.018, "percent_quality-limited_access-moderatly_rideable": 0.54, "percent_quality-limited_access-not_rideable": 0.007, "percent_quality-limited_access-perfectly_rideable": 0.009, "percent_quality-limited_access-unknown": 0.108, "percent_quality-limited_access-well_rideable": 0.336, "percent_quality-shared_pedestrians-perfectly_rideable": 0.147, "percent_quality-shared_pedestrians-unknown": 0.531, "percent_quality-shared_pedestrians-well_rideable": 0.322, "percent_quality-track-moderatly_rideable": 0.032, "percent_quality-track-perfectly_rideable": 0.11, "percent_quality-track-unknown": 0.815, "percent_quality-track-well_rideable": 0.044, "percent_surface_type-limited_access-asphalt_concrete": 0.338, "percent_surface_type-limited_access-blocks_slabs_cobbles": 0.013, "percent_surface_type-limited_access-gravel_dirt": 0.493, "percent_surface_type-limited_access-stabilised_gravel": 0.107, "percent_surface_type-limited_access-unknown": 0.048, "percent_surface_type-shared_pedestrians-asphalt_concrete": 0.927, "percent_surface_type-shared_pedestrians-blocks_slabs_cobbles": 0.006, "percent_surface_type-shared_pedestrians-unknown": 0.067, "percent_surface_type-track-asphalt_concrete": 0.915, "percent_surface_type-track-blocks_slabs_cobbles": 0.015, "percent_surface_type-track-gravel_dirt": null, "percent_surface_type-track-stabilised_gravel": null, "percent_surface_type-track-unknown": 0.07, "percent_surface_type-track-unrecognised": null, "percentage_with_smoothness_tag": 10.251, "percentage_with_surface_tag": 95.923, "percentage_with_width_tag": 11.481, "ratio-contraflow": 0.106, "ratio-cycle_infra-main_roads": 1.156, "ratio-cycle_tracks-main_roads": 0.412, "sum_total_smoothness": 10.458, "sum_total_surface": 97.859, "sum_total_width": 11.713, "surface_quality-limited_access-moderatly_rideable-km": 19.384, "surface_quality-limited_access-not_rideable-km": 0.258, "surface_quality-limited_access-perfectly_rideable-km": 0.335, "surface_quality-limited_access-unknown-km": 3.863, "surface_quality-limited_access-well_rideable-km": 12.047, "surface_quality-shared_pedestrians-perfectly_rideable-km": 3.758, "surface_quality-shared_pedestrians-unknown-km": 13.601, "surface_quality-shared_pedestrians-well_rideable-km": 8.256, "surface_quality-track-moderatly_rideable-km": 1.153, "surface_quality-track-perfectly_rideable-km": 3.987, "surface_quality-track-unknown-km": 29.626, "surface_quality-track-well_rideable-km": 1.589, "surface_type-limited_access-asphalt_concrete-km": 12.144, "surface_type-limited_access-blocks_slabs_cobbles-km": 0.458, "surface_type-limited_access-gravel_dirt-km": 17.702, "surface_type-limited_access-stabilised_gravel-km": 3.846, "surface_type-limited_access-unknown-km": 1.738, "surface_type-shared_pedestrians-asphalt_concrete-km": 23.74, "surface_type-shared_pedestrians-blocks_slabs_cobbles-km": 0.161, "surface_type-shared_pedestrians-unknown-km": 1.714, "surface_type-track-asphalt_concrete-km": 33.282, "surface_type-track-blocks_slabs_cobbles-km": 0.534, "surface_type-track-gravel_dirt-km": null, "surface_type-track-stabilised_gravel-km": null, "surface_type-track-unknown-km": 2.539, "surface_type-track-unrecognised-km": null, "type-busway-unidirectional": 0.49, "type-lane-unidirectional": 4.159, "type-limited_access-bidirectional": 35.806, "type-limited_access-unidirectional": 0.082, "type-pedestrian-bidirectional": 44.496, "type-shared_pedestrians-bidirectional": 25.616, "type-track-bidirectional": 35.721, "type-track-unidirectional": 0.634}, "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+    geo_json_d02e791895ae230259edcf3dd503fd49.bindTooltip(
+    function(layer){
+    let div = L.DomUtil.create('div');
+    
+    let handleObject = feature=>typeof(feature)=='object' ? JSON.stringify(feature) : feature;
+    let fields = ["NUTS_NAME", "ratio-cycle_infra-main_roads", "overview-cycle_tracks-km", "overview-shared_pedestrians-km", "overview-cycle_lanes-km", "overview-limited-access-km", "overview-busways-km", "overview-cycle_streets-km"];
+    let aliases = ["NUTS Name:", "Ratio cycle infra main roads (%) :", "Cycle tracks (km) :", "Cycle and pedestrian tracks: (km)", "Cycle lanes (km) :", "Limited access roads (km) :", "Cycle and bus lanes (km): ", "Cycle streets (km) :"];
+    let table = '<table>' +
+        String(
+        fields.map(
+        (v,i)=>
+        `<tr>
+            <th>${aliases[i].toLocaleString()}</th>
+            
+            <td>${handleObject(layer.feature.properties[v]).toLocaleString()}</td>
+        </tr>`).join(''))
+    +'</table>';
+    div.innerHTML=table;
+    
+    return div
+    }
+    ,{"className": "foliumtooltip", "maxWidth": 800, "sticky": false});
+                     
+    
+            var feature_group_5b93c630a2cbc284253db86f0d377107 = L.featureGroup(
+                {}
+            ).addTo(map_6d72936d3ccf9f62415b9ddb07aea819);
+        
+    
+            var circle_b2a9023830ef0f511ae396c75ddbdacb = L.circle(
+                [47.158769500000005, 9.547440047247868],
+                {"bubblingMouseEvents": true, "color": "", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.8, "radius": 1020.1800000000001, "stroke": true, "weight": 3}
+            ).addTo(feature_group_5b93c630a2cbc284253db86f0d377107);
+        
+    
+        var popup_3f1276b99f06c21f96833d5481c6e96f = L.popup({"maxWidth": 300});
+
+        
+            
+                var vega_lite_2f446703e6e4faee3808b28252d44fe1 = $(`             <div id="vega_lite_2f446703e6e4faee3808b28252d44fe1"></div>             `)[0];
+                popup_3f1276b99f06c21f96833d5481c6e96f.setContent(vega_lite_2f446703e6e4faee3808b28252d44fe1);
+            
+        
+
+        circle_b2a9023830ef0f511ae396c75ddbdacb.bindPopup(popup_3f1276b99f06c21f96833d5481c6e96f)
+        ;
+
+        
+            
+                    vegaEmbed(vega_lite_2f446703e6e4faee3808b28252d44fe1, {"$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json", "config": {"view": {"continuousHeight": 300, "continuousWidth": 300}}, "data": {"name": "data-7e85de38e1bb47a64a20f064c14514f4"}, "datasets": {"data-7e85de38e1bb47a64a20f064c14514f4": [{" Included in Total Infrastructure calculation": "yes", "Infrastructure length (km)": 36.355, "Infrastructure type": "Cycle tracks"}, {" Included in Total Infrastructure calculation": "yes", "Infrastructure length (km)": 25.616, "Infrastructure type": "Shared pedestrians"}, {" Included in Total Infrastructure calculation": "yes", "Infrastructure length (km)": 4.159, "Infrastructure type": "Cycle lanes "}, {" Included in Total Infrastructure calculation": "yes", "Infrastructure length (km)": 35.888, "Infrastructure type": "Limited Access"}, {" Included in Total Infrastructure calculation": "no", "Infrastructure length (km)": 0.49, "Infrastructure type": " Bus cycle lanes"}, {" Included in Total Infrastructure calculation": "no", "Infrastructure length (km)": 0.0, "Infrastructure type": "Cycle streets"}]}, "encoding": {"color": {"field": "Infrastructure type", "scale": {"domain": ["Cycle tracks", "Shared pedestrians", "Cycle lanes ", "Limited Access", " Bus cycle lanes", "Cycle streets"], "range": ["navy", "navy", "navy", "navy", "gray", "gray"]}, "type": "nominal"}, "tooltip": [{"field": "Infrastructure type", "type": "nominal"}, {"field": "Infrastructure length (km)", "type": "quantitative"}], "x": {"field": "Infrastructure type", "sort": ["Cycle tracks", "Shared pedestrians", "Cycle lanes ", "Limited Access", " Bus cycle lanes", "Cycle streets"], "type": "nominal"}, "y": {"field": "Infrastructure length (km)", "type": "quantitative"}}, "mark": {"type": "bar"}, "title": "LI000"})
+                        .then(function(result) {})
+                        .catch(console.error);
+                
+        
+    
+    
+            circle_b2a9023830ef0f511ae396c75ddbdacb.bindTooltip(
+                `<div>
+                     Click For More!
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var layer_control_3487878687f66b368b0861736e02587f = {
+                base_layers : {
+                    "CartoDB Positron Basemap" : tile_layer_9beea14f421ddb48967a4c40b5ecf175,
+                    "OSM Basemap" : tile_layer_831a42508d89b2c2cd769e6abaec98ea,
+                },
+                overlays :  {
+                    "Ratio of cycling infrastructure over the main road network" : feature_group_54d92dad3231b99d0ac75b28e4d4ce39,
+                    "Total Infrastructure" : feature_group_5b93c630a2cbc284253db86f0d377107,
+                },
+            };
+            L.control.layers(
+                layer_control_3487878687f66b368b0861736e02587f.base_layers,
+                layer_control_3487878687f66b368b0861736e02587f.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_6d72936d3ccf9f62415b9ddb07aea819);
+            tile_layer_831a42508d89b2c2cd769e6abaec98ea.remove();
+        
+    
+            var tile_layer_349a772ff67915d590732df66bab0c17 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+            var mini_map_79ea73911dbbcaa5f64ea31182a76766 = new L.Control.MiniMap(
+                tile_layer_349a772ff67915d590732df66bab0c17,
+                {"autoToggleDisplay": false, "centerFixed": false, "collapsedHeight": 25, "collapsedWidth": 25, "height": 150, "minimized": false, "position": "bottomright", "toggleDisplay": false, "width": 150, "zoomAnimation": false, "zoomLevelOffset": -5}
+            );
+            map_6d72936d3ccf9f62415b9ddb07aea819.addControl(mini_map_79ea73911dbbcaa5f64ea31182a76766);
+        
+</script>
+</html>
