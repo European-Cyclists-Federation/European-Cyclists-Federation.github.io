@@ -1,11 +1,13 @@
-remote_theme: mmistakes/minimal-mistakes
 
 title: [Welcome to the ECF QECIO 2.0]
 description: We are back with the second edition of Quantifying Europe’s Cycling Infrastructure using OpenStreetMap! 
 logo: /ecf.jpg
 
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 show_downloads: True
 google_analytics: 
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
