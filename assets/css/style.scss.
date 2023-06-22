@@ -1,7 +1,5 @@
----
----
-
 @import "{{ site.theme }}";
+
 section {
   width:100px;
   float:left;
