@@ -94,7 +94,7 @@ Add brief explanation on the methodology with a link to download it.
  ||
 [UK](https://ajchavez94.github.io/Countries/UK_map_A1.html)
 
-[A2: Ratio of cycle infrastructure to all public roads]
+[A2: Ratio of cycle infrastructure to all public roads](Europe_level/Europe_map_A2.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A2.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Countries/AL_map_A2.html)
@@ -175,7 +175,7 @@ Add brief explanation on the methodology with a link to download it.
 
 The map presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. Areas are colored in line with the ratios.
 
-- [B: Cycle tracks surfaces](Europe_map_B.html)
+- [B: Cycle tracks surfaces](Europe_level/Europe_map_B.html)
 
   The map presents the ratio of cycle tracks over the total infrastructure type. Areas are coloured in line with the ranging values of the ratio. Clicking in the bubles allows to see the different types of surfaces of this infrastructure type and by hovering mouse over a specific area you can find out the detailed statistics for this area.
 
@@ -258,7 +258,7 @@ If you dessire to access a more detailed map per country please click in any of 
 [UK](https://ajchavez94.github.io/Countries/UK_map_B.html)
  ||
 
-- [C:Aditional Data](Europe_map_C.html)
+- [C:Aditional Data](Europe_level/Europe_map_C.html)
 
 The map presents the amount of cycle infrastructure for which additional information, such as surface material, smoothness and width, is available in OSM tags. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.
 
@@ -341,7 +341,7 @@ The map presents the amount of cycle infrastructure for which additional informa
  ||
 [UK](https://ajchavez94.github.io/Countries/UK_map_C.html)
 
-- [D: Contraflow cycling](Europe_map_D.html)
+- [D: Contraflow cycling](Europe_level/Europe_map_D.html)
 
 The map presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  
 
