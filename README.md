@@ -182,6 +182,7 @@ The map presents the amount of cycle infrastructure for which additional informa
 
 - [Contraflow cycling](Europe_map_D.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_D.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+
 [AL](https://ajchavez94.github.io/Countries/AL_map_D.html)
  || 
 [AT](https://ajchavez94.github.io/Countries/AT_map_D.html)
@@ -257,7 +258,7 @@ The map presents the amount of cycle infrastructure for which additional informa
 [TR](https://ajchavez94.github.io/Countries/TR_map_D.html)
  ||
 [UK](https://ajchavez94.github.io/Countries/UK_map_D.html)
- ||
+
 
 ## Results at country level
 
