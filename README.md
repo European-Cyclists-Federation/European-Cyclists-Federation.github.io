@@ -260,14 +260,9 @@ The map presents the amount of cycle infrastructure for which additional informa
 [UK](https://ajchavez94.github.io/Countries/UK_map_D.html)
 
 
-## Results at country level
-
-### Country Results
-
-
 ## Built With
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
+  - [GitHub Pages](https://www.contributor-covenant.org/) - Used
     for the Code of Conduct
   - [Creative Commons](https://creativecommons.org/) - Used to choose
     the license
@@ -291,7 +286,5 @@ details
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+  - 
 
