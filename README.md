@@ -16,10 +16,8 @@ Add brief explanation on the methodology with a link to download it.
 ### European Level Results
 
 - [Total Cycle Infraestructure and ratios]
-- (Europe_map_A1.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A1.html" height="900" width="1000" name="iframe_a" title="Iframe Example"></iframe>
 
-- (Europe_map_A2.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A2.html" height="900" width="1000" name="iframe_a" title="Iframe Example"></iframe>
 
 The map presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. Areas are colored in line with the ratios.
