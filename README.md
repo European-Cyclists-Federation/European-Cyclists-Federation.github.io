@@ -23,7 +23,7 @@ Add brief explanation on the methodology with a link to download it.
 The map presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. Areas are colored in line with the ratios.
 
 - [Cycle Tracks](Europe_map_B.html)
-<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_B.html" height="900" width="1000"" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_B.html" height="900" width="1000" name="iframe_a" title="Iframe Example"></iframe>
 
 
 The map presents the ratio of cycle tracks over the total infrastructure type. Areas are coloured in line with the ranging values of the ratio. Clicking in the bubles allows to see the different types of surfaces of this infrastructure type and by hovering mouse over a specific area you can find out the detailed statistics for this area.
