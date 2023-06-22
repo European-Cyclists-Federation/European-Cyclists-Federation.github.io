@@ -13,211 +13,111 @@ Add brief explanation on the methodology with a link to download it.
 
 ### European Level Results
 
-- [Total Cycle Infraestructure](Europe_map_A.html)
+- [Total Cycle Infraestructure and ratios]
+- (Europe_map_A.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+
+- (Europe_map_A.html)
+<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+
+The map presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. Areas are colored in line with the ratio. 
 
 - [Cycle Tracks](Europe_map_B.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_B.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+The map presents the ratio of cycle tracks over the total infrastructure type. Areas are coloured in line with the ranging values of the ratio. Clicking in the bubles allows to see the different types of surfaces of this infrastructure type and by hovering mouse over a specific area you can find out the detailed statistics for this area.
+
+If you dessire to access a more detailed map per country please click in any of the following links:
+
+
+[AL](https://ajchavez94.github.io/Countries/AL_map_B.html)|| 
+[AT](https://ajchavez94.github.io/Countries/AT_map_B.html)||
+[BE](https://ajchavez94.github.io/Countries/BE_map_B.html)
+ ||
+[BG](https://ajchavez94.github.io/Countries/BG_map_B.html)
+ ||
+[CH](https://ajchavez94.github.io/Countries/CH_map_B.html)
+ ||
+[CY](https://ajchavez94.github.io/Countries/CY_map_B.html)
+ ||
+[CZ](https://ajchavez94.github.io/Countries/CZ_map_B.html)
+ ||
+[DE](https://ajchavez94.github.io/Countries/DE_map_B.html)
+ ||
+[DK](https://ajchavez94.github.io/Countries/DK_map_B.html)
+ ||
+[EE](https://ajchavez94.github.io/Countries/EE_map_B.html)
+ ||
+[EL](https://ajchavez94.github.io/Countries/EL_map_B.html)
+ ||
+[ES](https://ajchavez94.github.io/Countries/ES_map_B.html)
+ ||
+[ES_canary_islands](https://ajchavez94.github.io/Countries/ES_canary_islands_map_B.html)
+ ||
+[FI](https://ajchavez94.github.io/Countries/FI_map_B.html)
+ ||
+[FR](https://ajchavez94.github.io/Countries/FR_map_B.html)
+ ||
+[HR](https://ajchavez94.github.io/Countries/HR_map_B.html)
+ ||
+[HU](https://ajchavez94.github.io/Countries/HU_map_B.html)
+ ||
+[IE](https://ajchavez94.github.io/Countries/IE_map_B.html)
+ ||
+[IS](https://ajchavez94.github.io/Countries/IS_map_B.html)
+ ||
+[IT](https://ajchavez94.github.io/Countries/IT_map_B.html)
+ ||
+[LI](https://ajchavez94.github.io/Countries/LI_map_B.html)
+ ||
+[LT](https://ajchavez94.github.io/Countries/LT_map_B.html)
+ ||
+[LU](https://ajchavez94.github.io/Countries/LU_map_B.html)
+ ||
+[LV](https://ajchavez94.github.io/Countries/LV_map_B.html)
+ ||
+[ME](https://ajchavez94.github.io/Countries/ME_map_B.html)
+ ||
+[MK](https://ajchavez94.github.io/Countries/MK_map_B.html)
+ ||
+[MT](https://ajchavez94.github.io/Countries/MT_map_B.html)
+ ||
+[NL](https://ajchavez94.github.io/Countries/NL_map_B.html)
+ ||
+[NO](https://ajchavez94.github.io/Countries/NO_map_B.html)
+ ||
+[PL](https://ajchavez94.github.io/Countries/PL_map_B.html)
+ ||
+[PT](https://ajchavez94.github.io/Countries/PT_map_B.html)
+ ||
+[RO](https://ajchavez94.github.io/Countries/RO_map_B.html)
+ || 
+[RS](https://ajchavez94.github.io/Countries/RS_map_B.html)
+ ||
+[SE](https://ajchavez94.github.io/Countries/SE_map_B.html)
+ ||
+[SI](https://ajchavez94.github.io/Countries/SI_map_B.html)
+ ||
+[SK](https://ajchavez94.github.io/Countries/SK_map_B.html)
+ ||
+[TR](https://ajchavez94.github.io/Countries/TR_map_B.html)
+ ||
+[UK](https://ajchavez94.github.io/Countries/UK_map_B.html)
+ ||
 
 - [Aditional Data](Europe_map_C.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_C.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+The map presents the amount of cycle infrastructure for which additional information, such as surface material, smoothness and width, is available in OSM tags. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.
+
+
 
 - [Contraflow cycling](Europe_map_D.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_D.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
+
+
 ## Results at country level
 
 ### Country Results
 
-- Albania
-[Map A](https://ajchavez94.github.io/Countries/AL_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/AL_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/AL_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/AL_map_D.html)
-- Austria
-[Map A](https://ajchavez94.github.io/Countries/AT_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/AT_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/AT_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/AT_map_D.html)
-- Belgium
-[Map A](https://ajchavez94.github.io/Countries/BE_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/BE_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/BE_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/BE_map_D.html)
-- Bulgaria
-[Map A](https://ajchavez94.github.io/Countries/BG_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/BG_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/BG_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/BG_map_D.html)
-- Switzerland
-[Map A](https://ajchavez94.github.io/Countries/CH_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/CH_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/CH_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/CH_map_D.html)
-- Cyprus
-[Map A](https://ajchavez94.github.io/Countries/CY_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/CY_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/CY_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/CY_map_D.html)
-- Czech_republic
-[Map A](https://ajchavez94.github.io/Countries/CZ_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/CZ_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/CZ_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/CZ_map_D.html)
-- Germany
-[Map A](https://ajchavez94.github.io/Countries/DE_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/DE_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/DE_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/DE_map_D.html)
-- Denmark
-[Map A](https://ajchavez94.github.io/Countries/DK_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/DK_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/DK_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/DK_map_D.html)
-- Estonia
-[Map A](https://ajchavez94.github.io/Countries/EE_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/EE_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/EE_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/EE_map_D.html)
-- Greece
-[Map A](https://ajchavez94.github.io/Countries/EL_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/EL_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/EL_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/EL_map_D.html)
-- Spain
-[Map A](https://ajchavez94.github.io/Countries/ES_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/ES_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/ES_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/ES_map_D.html)
-- canary_islands
-[Map A](https://ajchavez94.github.io/Countries/ES_canary_islands_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/ES_canary_islands_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/ES_canary_islands_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/ES_canary_islands_map_D.html)
-- Finland
-[Map A](https://ajchavez94.github.io/Countries/FI_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/FI_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/FI_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/FI_map_D.html)
-- France
-[Map A](https://ajchavez94.github.io/Countries/FR_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/FR_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/FR_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/FR_map_D.html)
-- croatia
-[Map A](https://ajchavez94.github.io/Countries/HR_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/HR_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/HR_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/HR_map_D.html)
-- Hungary
-[Map A](https://ajchavez94.github.io/Countries/HU_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/HU_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/HU_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/HU_map_D.html)
-- Ireland
-[Map A](https://ajchavez94.github.io/Countries/IE_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/IE_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/IE_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/IE_map_D.html)
-- Iceland
-[Map A](https://ajchavez94.github.io/Countries/IS_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/IS_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/IS_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/IS_map_D.html)
-- Italy
-[Map A](https://ajchavez94.github.io/Countries/IT_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/IT_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/IT_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/IT_map_D.html)
-- liechtenstein
-[Map A](https://ajchavez94.github.io/Countries/LI_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/LI_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/LI_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/LI_map_D.html)
-- Lithuania
-[Map A](https://ajchavez94.github.io/Countries/LT_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/LT_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/LT_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/LT_map_D.html)
-- Luxembourg
-[Map A](https://ajchavez94.github.io/Countries/LU_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/LU_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/LU_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/LU_map_D.html)
-- Latvia
-[Map A](https://ajchavez94.github.io/Countries/LV_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/LV_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/LV_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/LV_map_D.html)
-- Montenegro
-[Map A](https://ajchavez94.github.io/Countries/ME_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/ME_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/ME_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/ME_map_D.html)
-- Macedonia
-[Map A](https://ajchavez94.github.io/Countries/MK_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/MK_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/MK_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/MK_map_D.html)
-- Malta
-[Map A](https://ajchavez94.github.io/Countries/MT_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/MT_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/MT_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/MT_map_D.html)
-- Netherlands
-[Map A](https://ajchavez94.github.io/Countries/NL_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/NL_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/NL_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/NL_map_D.html)
-- Norway
-[Map A](https://ajchavez94.github.io/Countries/NO_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/NO_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/NO_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/NO_map_D.html)
-- Poland
-[Map A](https://ajchavez94.github.io/Countries/PL_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/PL_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/PL_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/PL_map_D.html)
-- Portugal
-[Map A](https://ajchavez94.github.io/Countries/PT_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/PT_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/PT_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/PT_map_D.html)
-- Romania
-[Map A](https://ajchavez94.github.io/Countries/RO_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/RO_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/RO_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/RO_map_D.html)
-- Serbia
-[Map A](https://ajchavez94.github.io/Countries/RS_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/RS_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/RS_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/RS_map_D.html)
-- sweden
-[Map A](https://ajchavez94.github.io/Countries/SE_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/SE_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/SE_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/SE_map_D.html)
-- Slovenia
-[Map A](https://ajchavez94.github.io/Countries/SI_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/SI_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/SI_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/SI_map_D.html)
-- Slovakia
-[Map A](https://ajchavez94.github.io/Countries/SK_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/SK_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/SK_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/SK_map_D.html)
-- Turkey
-[Map A](https://ajchavez94.github.io/Countries/TR_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/TR_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/TR_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/TR_map_D.html)
-- great_britain
-[Map A](https://ajchavez94.github.io/Countries/UK_map_A.html)
-[Map B](https://ajchavez94.github.io/Countries/UK_map_B.html)
-[Map C](https://ajchavez94.github.io/Countries/UK_map_C.html)
-[Map D](https://ajchavez94.github.io/Countries/UK_map_D.html)
 
 ## Built With
 
