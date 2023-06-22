@@ -17,6 +17,7 @@ Add brief explanation on the methodology with a link to download it.
 
 - [Total Cycle Infraestructure and ratios]
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A1.html" height="900" width="1000" name="iframe_a" title="Iframe Example"></iframe>
+
 [AL](https://ajchavez94.github.io/Countries/AL_map_A1.html)
  || 
 [AT](https://ajchavez94.github.io/Countries/AT_map_A1.html)
@@ -175,6 +176,7 @@ The map presents two layers one for the amount of cycle infrastructure, the bubb
 
 - [Cycle Tracks](Europe_map_B.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_B.html" height="900" width="1000" name="iframe_a" title="Iframe Example"></iframe>
+
 [AL](https://ajchavez94.github.io/Countries/AL_map_B.html)
  || 
 [AT](https://ajchavez94.github.io/Countries/AT_map_B.html)
