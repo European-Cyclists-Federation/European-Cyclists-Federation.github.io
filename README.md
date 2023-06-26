@@ -48,8 +48,6 @@ You can consult the different type of data collected in the following maps.
  ||
 [ES](https://ajchavez94.github.io/Visualization/ES/ES_map_A1.html)
  ||
-[ES_canary_islands](https://ajchavez94.github.io/Visualization/ES_canary_islands/ES_canary_islands_map_A1.html)
- ||
 [FI](https://ajchavez94.github.io/Visualization/FI/FI_map_A1.html)
  ||
 [FR](https://ajchavez94.github.io/Visualization/FR/FR_map_A1.html)
@@ -126,8 +124,6 @@ You can consult the different type of data collected in the following maps.
 [EL](https://ajchavez94.github.io/Visualization/EL/EL_map_A2.html)
  ||
 [ES](https://ajchavez94.github.io/Visualization/ES/ES_map_A2.html)
- ||
-[ES_canary_islands](https://ajchavez94.github.io/Visualization/ES_canary_islands/ES_canary_islands_map_A2.html)
  ||
 [FI](https://ajchavez94.github.io/Visualization/FI/FI_map_A2.html)
  ||
@@ -213,8 +209,6 @@ If you dessire to access a more detailed map per country please click in any of 
  ||
 [ES](https://ajchavez94.github.io/Visualization/ES/ES_map_B.html)
  ||
-[ES_canary_islands](https://ajchavez94.github.io/Visualization/ES_canary_islands/ES_canary_islands_map_B.html)
- ||
 [FI](https://ajchavez94.github.io/Visualization/FI/FI_map_B.html)
  ||
 [FR](https://ajchavez94.github.io/Visualization/FR/FR_map_B.html)
@@ -295,8 +289,6 @@ The map presents the amount of cycle infrastructure for which additional informa
 [EL](https://ajchavez94.github.io/Visualization/EL/EL_map_C.html)
  ||
 [ES](https://ajchavez94.github.io/Visualization/ES/ES_map_C.html)
- ||
-[ES_canary_islands](https://ajchavez94.github.io/Visualization/ES_canary_islands/ES_canary_islands_map_C.html)
  ||
 [FI](https://ajchavez94.github.io/Visualization/FI/FI_map_C.html)
  ||
@@ -379,8 +371,6 @@ The map presents the ratio of local one-way streets with contraflow cycling allo
  ||
 [ES](https://ajchavez94.github.io/Visualization/ES/ES_map_D.html)
  ||
-[ES_canary_islands](https://ajchavez94.github.io/Visualization/ES_canary_islands/ES_canary_islands_map_D.html)
- ||
 [FI](https://ajchavez94.github.io/Visualization/FI/FI_map_D.html)
  ||
 [FR](https://ajchavez94.github.io/Visualization/FR/FR_map_D.html)
@@ -445,10 +435,9 @@ The map presents the ratio of local one-way streets with contraflow cycling allo
 ## Authors
 
   - **Aleksander Buczyński** - 
-    **Andrea Chavez-Pacheco** - 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project. Agilitic?
+    **Andrea Chavez-Pacheco** - [@ajchavez94](https://github.com/ajchavez94)
+
+with the kind support of [Agilitic](https://www.agilytic.be/)
 
 ## License
 
