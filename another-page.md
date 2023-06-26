@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Meta Data
+title: QECIO 2.0. Meta Data
 description: Access to the available datasets
 ---
 
-## Welcome to another page
+## Interested in the datasets? 
+Here you can access available gikg, documents for relevant NUTS 3 area, click on the link per nit. 
+# FIXME add a folder?
 
 _yay_
 
