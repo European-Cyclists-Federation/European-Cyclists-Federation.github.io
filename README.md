@@ -15,86 +15,86 @@ Add brief explanation on the methodology with a link to download it.
 
 ## European Level Results
 
-- [A1: Ratio of segregated cycle infrastructure to main roads](Europe_level/Europe_map_A1.html)
-<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A1.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+- [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
-[AL](https://ajchavez94.github.io/Countries/AL_map_A1.html)
+[AL](https://ajchavez94.github.io/Visualization/AL/AL_map_A1.html)
  || 
-[AT](https://ajchavez94.github.io/Countries/AT_map_A1.html)
- || 
-[BE](https://ajchavez94.github.io/Countries/BE_map_A1.html)
- || 
-[BG](https://ajchavez94.github.io/Countries/BG_map_A1.html)
- || 
-[CH](https://ajchavez94.github.io/Countries/CH_map_A1.html)
- || 
-[CY](https://ajchavez94.github.io/Countries/CY_map_A1.html)
- || 
-[CZ](https://ajchavez94.github.io/Countries/CZ_map_A1.html)
- || 
-[DE](https://ajchavez94.github.io/Countries/DE_map_A1.html)
- || 
-[DK](https://ajchavez94.github.io/Countries/DK_map_A1.html)
- || 
-[EE](https://ajchavez94.github.io/Countries/EE_map_A1.html)
- || 
-[EL](https://ajchavez94.github.io/Countries/EL_map_A1.html)
+[AT](https://ajchavez94.github.io/Visualization/AT/AT_map_A1.html)
  ||
-[ES](https://ajchavez94.github.io/Countries/ES_map_A1.html)
+[BE](https://ajchavez94.github.io/Visualization/BE/BE_map_A1.html)
  ||
-[ES_canary_islands](https://ajchavez94.github.io/Countries/ES_canary_islands_map_A1.html)
+[BG](https://ajchavez94.github.io/Visualization/BG/BG_map_A1.html)
  ||
-[FI](https://ajchavez94.github.io/Countries/FI_map_A1.html)
+[CH](https://ajchavez94.github.io/Visualization/CH/CH_map_A1.html)
  ||
-[FR](https://ajchavez94.github.io/Countries/FR_map_A1.html)
+[CY](https://ajchavez94.github.io/Visualization/CY/CY_map_A1.html)
  ||
-[HR](https://ajchavez94.github.io/Countries/HR_map_A1.html)
+[CZ](https://ajchavez94.github.io/Visualization/CZ/CZ_map_A1.html)
  ||
-[HU](https://ajchavez94.github.io/Countries/HU_map_A1.html)
+[DE](https://ajchavez94.github.io/Visualization/DE/DE_map_A1.html)
  ||
-[IE](https://ajchavez94.github.io/Countries/IE_map_A1.html)
+[DK](https://ajchavez94.github.io/Visualization/DK/DK_map_A1.html)
  ||
-[IS](https://ajchavez94.github.io/Countries/IS_map_A1.html)
+[EE](https://ajchavez94.github.io/Visualization/EE/EE_map_A1.html)
  ||
-[IT](https://ajchavez94.github.io/Countries/IT_map_A1.html)
+[EL](https://ajchavez94.github.io/Visualization/EL/EL_map_A1.html)
  ||
-[LI](https://ajchavez94.github.io/Countries/LI_map_A1.html)
+[ES](https://ajchavez94.github.io/Visualization/ES/ES_map_A1.html)
  ||
-[LT](https://ajchavez94.github.io/Countries/LT_map_A1.html)
+[ES_canary_islands](https://ajchavez94.github.io/Visualization/ES_canary_islands/ES_canary_islands_map_A1.html)
  ||
-[LU](https://ajchavez94.github.io/Countries/LU_map_A1.html)
+[FI](https://ajchavez94.github.io/Visualization/FI/FI_map_A1.html)
  ||
-[LV](https://ajchavez94.github.io/Countries/LV_map_A1.html)
+[FR](https://ajchavez94.github.io/Visualization/FR/FR_map_A1.html)
  ||
-[ME](https://ajchavez94.github.io/Countries/ME_map_A1.html)
+[HR](https://ajchavez94.github.io/Visualization/HR/HR_map_A1.html)
  ||
-[MK](https://ajchavez94.github.io/Countries/MK_map_A1.html)
+[HU](https://ajchavez94.github.io/Visualization/HU/HU_map_A1.html)
  ||
-[MT](https://ajchavez94.github.io/Countries/MT_map_A1.html)
+[IE](https://ajchavez94.github.io/Visualization/IE/IE_map_A1.html)
  ||
-[NL](https://ajchavez94.github.io/Countries/NL_map_A1.html)
+[IS](https://ajchavez94.github.io/Visualization/IS/IS_map_A1.html)
  ||
-[NO](https://ajchavez94.github.io/Countries/NO_map_A1.html)
+[IT](https://ajchavez94.github.io/Visualization/IT/IT_map_A1.html)
  ||
-[PL](https://ajchavez94.github.io/Countries/PL_map_A1.html)
+[LI](https://ajchavez94.github.io/Visualization/LI/LI_map_A1.html)
  ||
-[PT](https://ajchavez94.github.io/Countries/PT_map_A1.html)
+[LT](https://ajchavez94.github.io/Visualization/LT/LT_map_A1.html)
  ||
-[RO](https://ajchavez94.github.io/Countries/RO_map_A1.html)
+[LU](https://ajchavez94.github.io/Visualization/LU/LU_map_A1.html)
  ||
-[RS](https://ajchavez94.github.io/Countries/RS_map_A1.html)
+[LV](https://ajchavez94.github.io/Visualization/LV/LV_map_A1.html)
  ||
-[SE](https://ajchavez94.github.io/Countries/SE_map_A1.html)
+[ME](https://ajchavez94.github.io/Visualization/ME/ME_map_A1.html)
  ||
-[SI](https://ajchavez94.github.io/Countries/SI_map_A1.html)
+[MK](https://ajchavez94.github.io/Visualization/MK/MK_map_A1.html)
  ||
-[SK](https://ajchavez94.github.io/Countries/SK_map_A1.html)
+[MT](https://ajchavez94.github.io/Visualization/MT/MT_map_A1.html)
  ||
-[TR](https://ajchavez94.github.io/Countries/TR_map_A1.html)
+[NL](https://ajchavez94.github.io/Visualization/NL/NL_map_A1.html)
  ||
-[UK](https://ajchavez94.github.io/Countries/UK_map_A1.html)
+[NO](https://ajchavez94.github.io/Visualization/NO/NO_map_A1.html)
+ ||
+[PL](https://ajchavez94.github.io/Visualization/PL/PL_map_A1.html)
+ ||
+[PT](https://ajchavez94.github.io/Visualization/PT/PT_map_A1.html)
+ ||
+[RO](https://ajchavez94.github.io/Visualization/RO/RO_map_A1.html)
+ ||
+[RS](https://ajchavez94.github.io/Visualization/RS/RS_map_A1.html)
+ ||
+[SE](https://ajchavez94.github.io/Visualization/SE/SE_map_A1.html)
+ ||
+[SI](https://ajchavez94.github.io/Visualization/SI/SI_map_A1.html)
+ ||
+[SK](https://ajchavez94.github.io/Visualization/SK/SK_map_A1.html)
+ ||
+[TR](https://ajchavez94.github.io/Visualization/TR/TR_map_A1.html)
+ ||
+[UK](https://ajchavez94.github.io/Visualization/UK/UK_map_A1.html)
 
-[A2: Ratio of cycle infrastructure to all public roads](Europe_level/Europe_map_A2.html)
+[A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html)
 <iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A2.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Countries/AL_map_A2.html)
@@ -175,11 +175,11 @@ Add brief explanation on the methodology with a link to download it.
 
 The map presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. Areas are colored in line with the ratios.
 
-- [B: Cycle tracks surfaces](Europe_level/Europe_map_B.html)
+- [B: Cycle tracks surfaces](Visualization/Europe_map_B.html)
 
   The map presents the ratio of cycle tracks over the total infrastructure type. Areas are coloured in line with the ranging values of the ratio. Clicking in the bubles allows to see the different types of surfaces of this infrastructure type and by hovering mouse over a specific area you can find out the detailed statistics for this area.
 
-<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_B.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_B.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
 If you dessire to access a more detailed map per country please click in any of the following links:
 
@@ -262,7 +262,7 @@ If you dessire to access a more detailed map per country please click in any of 
 
 The map presents the amount of cycle infrastructure for which additional information, such as surface material, smoothness and width, is available in OSM tags. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.
 
-<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_C.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_C.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
 
 [AL](https://ajchavez94.github.io/Countries/AL_map_C.html)
@@ -345,7 +345,7 @@ The map presents the amount of cycle infrastructure for which additional informa
 
 The map presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  
 
-<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_D.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_D.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Countries/AL_map_D.html)
  || 
