@@ -101,7 +101,7 @@ You can consult the different type of data collected in the following maps.
 [UK](https://ajchavez94.github.io/Visualization/UK/UK_map_A1.html)
 
 [A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html)
-<iframe src="https://ajchavez94.github.io/Europe_level/Europe_map_A2.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A2.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Visualization/AL/AL_map_A2.html)
  || 
