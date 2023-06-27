@@ -9,28 +9,31 @@ This project correspond to second edition, to access the data from previos year 
 Do not forget to visit of website
 [ECF](https://ecf.com/). 
 
-## Highlights
+# Highlights
 
 
-## The Methodology
+# The Methodology
 
 Add brief explanation on the methodology with a link to download it.
 
 
-## Overview of the database
-[Map A1: Ratio of segregated cycle infrastructure to main roads](### - [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html))
+# Overview of the database
+[Map A1: Ratio of segregated cycle infrastructure to main roads](### [A1: Ratio of segregated cycle infrastructure to main roads])
 [Map A2: Ratio of cycle infrastructure to all public roads](### -[A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html))
 [Map B:  Cycle tracks surfaces](### - [B: Cycle tracks surfaces](Visualization/Europe_map_B.html))
 [Map C: Aditional Datas](### - [C: Aditional Data](Europe_level/Europe_map_C.html))
 [Map D: Contraflow cycling](### - [D: Contraflow cycling](Europe_level/Europe_map_D.html))
 
+
+#General Results
+
 <iframe src="https://european-cyclists-federation.github.io/Images/chart1.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
-## Maps Visualization
+# Maps Visualization
 
 You can consult the different type of data collected in the following maps.
 
-### - [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
+##  [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
 
 The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
 
