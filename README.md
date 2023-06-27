@@ -15,7 +15,7 @@ Add brief explanation on the methodology with a link to download it.
 
 ## Overview of the database
 
-<iframe src="https://European-Cyclists-Federation.github.io/chart1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://european-cyclists-federation.github.io/chart1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 ## Maps Visualization
 
