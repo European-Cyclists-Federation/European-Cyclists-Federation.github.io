@@ -18,14 +18,14 @@ Add brief explanation on the methodology with a link to download it.
 
 
 # Overview of the database
-[Map A1: Ratio of segregated cycle infrastructure to main roads](### [A1: Ratio of segregated cycle infrastructure to main roads])
+[Map A1: Ratio of segregated cycle infrastructure to main roads](### A1:-Ratio-of-segregated-cycle-infrastructure-to-main-roads)
 [Map A2: Ratio of cycle infrastructure to all public roads](### -[A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html))
 [Map B:  Cycle tracks surfaces](### - [B: Cycle tracks surfaces](Visualization/Europe_map_B.html))
 [Map C: Aditional Datas](### - [C: Aditional Data](Europe_level/Europe_map_C.html))
 [Map D: Contraflow cycling](### - [D: Contraflow cycling](Europe_level/Europe_map_D.html))
 
 
-#General Results
+# General Results
 
 <iframe src="https://european-cyclists-federation.github.io/Images/chart1.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
@@ -33,7 +33,7 @@ Add brief explanation on the methodology with a link to download it.
 
 You can consult the different type of data collected in the following maps.
 
-##  [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
+## [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
 
 The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
 
@@ -117,7 +117,7 @@ The maps are colored to represent the magnitude of the metric of interest. By ho
 [UK](Visualization/UK/UK_map_A1.html)
  |
 
-### -[A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html)
+### [A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html)
 
 The map presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total  cycle infrastructure. By clicking in the circles, a bar plot with the types of infrastructure will be displayed along with a link to explore the details.
 
