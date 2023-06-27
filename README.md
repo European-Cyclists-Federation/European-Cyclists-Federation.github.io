@@ -20,10 +20,15 @@ Add brief explanation on the methodology with a link to download it.
 ## Maps Visualization
 
 You can consult the different type of data collected in the following maps.
-> **Note**
-> The ratio of segregated cycle infrasctucture to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as "motorway","trunk", "primary","secondary",  "tertiary","motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link" in OSM. Please visit our methodology section to obtain more insights on the data processing. 
+
+
 
 - [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
+
+
+> **Note**
+> <div style="text-align: right">The ratio of segregated cycle infrasctucture to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as "motorway","trunk", "primary","secondary",  "tertiary","motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link" in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
+ 
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Visualization/AL/AL_map_A1.html)
