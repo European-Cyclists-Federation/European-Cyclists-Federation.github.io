@@ -25,9 +25,10 @@ You can consult the different type of data collected in the following maps.
 
 - [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
 
+The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
 
 > **Note**
-> <div style="text-align: right">The ratio of segregated cycle infrasctucture to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as "motorway","trunk", "primary","secondary",  "tertiary","motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link" in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
+> <div style="text-align: justify">The ratio of segregated cycle infrasctucture to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as "motorway","trunk", "primary","secondary",  "tertiary","motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link" in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
  
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
@@ -107,8 +108,10 @@ You can consult the different type of data collected in the following maps.
 
 - [A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html)
 
+The map presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total  cycle infrastructure. By clicking in the circles, a bar plot with the types of infrastructure will be displayed along with a link to explore the details.
+
   > **Note**
-> The ratio of cycle infrasctucture to public roads, is an indicator of road coverage by cycle infrastructure. The extended cycle infrastructure used in the nomitator considered: cycle tracks, shared pedestrians (cycle and pedestrian paths), cycle lanes, limited access roads, bus lanes and cycle streets. While the road newtork used in the denominator was calculated by integrating main roads plus local roads . The local roads were selected using the following tags ["residential", "living_street", "unclassified"].  Please visit our methodology section to obtain more insights on the data processing.
+> <div style="text-align: justify"> The ratio of cycle infrasctucture to public roads, is an indicator of road coverage by cycle infrastructure. The extended cycle infrastructure used in the nomitator considered: cycle tracks, shared pedestrians (cycle and pedestrian paths), cycle lanes, limited access roads, bus lanes and cycle streets. While the road newtork used in the denominator was calculated by integrating main roads plus local roads . The local roads were selected using the following tags ["residential", "living_street", "unclassified"].  Please visit our methodology section to obtain more insights on the data processing. </div>
 
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A2.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
@@ -186,11 +189,13 @@ You can consult the different type of data collected in the following maps.
  ||
 [UK](https://ajchavez94.github.io/Visualization/UK/UK_map_A2.html)
 
-The map presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. Areas are colored in line with the ratios.
 
 - [B: Cycle tracks surfaces](Visualization/Europe_map_B.html)
 
-  The map presents the ratio of cycle tracks over the total infrastructure type. Areas are coloured in line with the ranging values of the ratio. Clicking in the bubles allows to see the different types of surfaces of this infrastructure type and by hovering mouse over a specific area you can find out the detailed statistics for this area.
+The map presents the ratio of cycle tracks over the main roads. The map presents two layers one for the amount of cycle tracks, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the surface types will be displayed along with a link to explore the details.
+
+  > **Note**
+> <div style="text-align: justify"> The ratio of cycle tracks to main roads, is an indicator of road coverage by cycle infrastructure. Only cycle tracks lenght was used in the nominator. While the road newtork used in the denominator was calculated by integrating main roads. The different types of surfaces were grouped according to ECS criteria. Please visit our methodology section to obtain more insights on the data processing.</div>
 
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_B.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
 
