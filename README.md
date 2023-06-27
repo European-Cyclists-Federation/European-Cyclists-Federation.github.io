@@ -30,7 +30,7 @@ The maps are colored to represent the magnitude of the metric of interest. By ho
  
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
-[AL](https://ajchavez94.github.io/Visualization/AL/AL_map_A1.html)
+[AL](Visualization/AL/AL_map_A1.html)
  || 
 [AT](https://ajchavez94.github.io/Visualization/AT/AT_map_A1.html)
  ||
