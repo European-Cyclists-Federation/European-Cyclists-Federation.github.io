@@ -18,11 +18,11 @@ Add brief explanation on the methodology with a link to download it.
 
 
 # Overview of the database
-[Map A1: Ratio of segregated cycle infrastructure to main roads](### A1:-Ratio-of-segregated-cycle-infrastructure-to-main-roads)
-[Map A2: Ratio of cycle infrastructure to all public roads](### -[A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html))
-[Map B:  Cycle tracks surfaces](### - [B: Cycle tracks surfaces](Visualization/Europe_map_B.html))
-[Map C: Aditional Datas](### - [C: Aditional Data](Europe_level/Europe_map_C.html))
-[Map D: Contraflow cycling](### - [D: Contraflow cycling](Europe_level/Europe_map_D.html))
+[Map A1: Ratio of segregated cycle infrastructure to main roads](## A1:-Ratio-of-segregated-cycle-infrastructure-to-main-roads)
+[Map A2: Ratio of cycle infrastructure to all public roads](## [A2: Ratio of cycle infrastructure to all public roads](Visualization/Europe_map_A2.html))
+[Map B:  Cycle tracks surfaces](## - [B: Cycle tracks surfaces](Visualization/Europe_map_B.html))
+[Map C: Aditional Datas](## - [C: Aditional Data](Europe_level/Europe_map_C.html))
+[Map D: Contraflow cycling](## - [D: Contraflow cycling](Europe_level/Europe_map_D.html))
 
 
 # General Results
