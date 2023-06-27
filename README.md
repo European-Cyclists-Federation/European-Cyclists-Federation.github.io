@@ -15,13 +15,11 @@ Add brief explanation on the methodology with a link to download it.
 
 ## Overview of the database
 
-
+<iframe src="https://European-Cyclists-Federation/European-Cyclists-Federation.github.io/chart1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 ## Maps Visualization
 
 You can consult the different type of data collected in the following maps.
-
-
 
 - [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
 
