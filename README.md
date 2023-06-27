@@ -30,7 +30,7 @@ The maps are colored to represent the magnitude of the metric of interest. By ho
 > **Note**
 > <div style="text-align: justify">The ratio of segregated cycle infrasctucture to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as "motorway","trunk", "primary","secondary",  "tertiary","motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link" in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
  
-<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Visualization/AL/AL_map_A1.html)
  || 
@@ -113,7 +113,7 @@ The map presents two layers one for the amount of cycle infrastructure, the bubb
   > **Note**
 > <div style="text-align: justify"> The ratio of cycle infrasctucture to public roads, is an indicator of road coverage by cycle infrastructure. The extended cycle infrastructure used in the nomitator considered: cycle tracks, shared pedestrians (cycle and pedestrian paths), cycle lanes, limited access roads, bus lanes and cycle streets. While the road newtork used in the denominator was calculated by integrating main roads plus local roads . The local roads were selected using the following tags ["residential", "living_street", "unclassified"].  Please visit our methodology section to obtain more insights on the data processing. </div>
 
-<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A2.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A2.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Visualization/AL/AL_map_A2.html)
  || 
@@ -197,7 +197,7 @@ The map presents the ratio of cycle tracks over the main roads. The map presents
   > **Note**
 > <div style="text-align: justify"> The ratio of cycle tracks to main roads, is an indicator of road coverage by cycle infrastructure. Only cycle tracks lenght was used in the nominator. While the road newtork used in the denominator was calculated by integrating main roads. The different types of surfaces were grouped according to ECS criteria. Please visit our methodology section to obtain more insights on the data processing.</div>
 
-<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_B.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_B.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 If you dessire to access a more detailed map per country please click in any of the following links:
 
@@ -276,11 +276,14 @@ If you dessire to access a more detailed map per country please click in any of 
 [UK](https://ajchavez94.github.io/Visualization/UK/UK_map_B.html)
  ||
 
-- [C:Aditional Data](Europe_level/Europe_map_C.html)
+- [C: Aditional Data](Europe_level/Europe_map_C.html)
 
-The map presents the amount of cycle infrastructure for which additional information, such as surface material, smoothness and width, is available in OSM tags. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.
+The map presents the shared amount of aditional data from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.
 
-<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_C.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+  > **Note**
+> <div style="text-align: justify"> The % of aditional data, is an indicator of completeness of OSM tags. The nominator includes the average of roads lenght that include surface, smoothness and width tag. Please visit our methodology section to obtain more insights on the data processing. </div>
+
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_C.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Visualization/AL/AL_map_C.html)
  || 
@@ -361,7 +364,10 @@ The map presents the amount of cycle infrastructure for which additional informa
 
 The map presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  
 
-<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_D.html" height="900" width="900" name="iframe_a" title="Iframe Example"></iframe>
+  > **Note**
+> <div style="text-align: justify"> The contraflow cycling, is a ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Please visit our methodology section to obtain more insights on the data processing.  </div>
+
+<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](https://ajchavez94.github.io/Visualization/AL/AL_map_D.html)
  || 
