@@ -20,7 +20,7 @@ Add brief explanation on the methodology with a link to download it.
 ## Overview of the database
 [Map A1](### - [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html))
 
-<iframe src="https://european-cyclists-federation.github.io/chart1.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="https://european-cyclists-federation.github.io/Images/chart1.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 ## Maps Visualization
 
