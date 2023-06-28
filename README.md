@@ -9,13 +9,11 @@ This project correspond to second edition, to access the data from previos year 
 Do not forget to visit of website
 [ECF](https://ecf.com/). 
 
-# Overview of the database
-
+# Overview 
 ![](Images/37.png)
 
-# The Methodology
 
-Add brief explanation on the methodology with a link to download it.
+
 
 # General Results
 
@@ -450,23 +448,21 @@ The map presents the ratio of local one-way streets with contraflow cycling allo
 
 [Metadata](https://ajchavez94.github.io/another-page.html)
 
-## Built With
+# The Methodology
+
+The methodology can be accesed through this [link](https://link-url-here.org)
+
+# Built With
 
   - [GitHub Pages](https://www.contributor-covenant.org/) 
 
 
-## Authors
+# Authors
 
   - **Aleksander Buczyński** - 
   - **Andrea Chavez-Pacheco**- [@ajchavez94](https://github.com/ajchavez94)
 
 with the kind support of [Agilitic](https://www.agilytic.be/)
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
 
 ## Acknowledgments
 
