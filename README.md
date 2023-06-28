@@ -22,7 +22,7 @@ Do not forget to visit of website
 ## Ratio of segregated cycle infrastructure to main roads
 
 > **Note**
-> <div style="text-align: justify">The ratio of segregated cycle infrastructure to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as "motorway", "trunk", "primary", "secondary", "tertiary", "motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link" in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
+> <div style="text-align: justify">The ratio of segregated cycle infrastructure to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as motorway, trunk, primary, secondary, tertiary, motorway link, trunk link, primary link, secondary link, tertiary link in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
 <br>
 
 <iframe src="https://european-cyclists-federation.github.io/Images/Ratio Segregated Cycle Infrastructure.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
@@ -113,7 +113,7 @@ The [map](Visualization/Europe_map_A1.html) is colored to represent the magnitud
 ## Ratio of cycle infrastructure to all public roads
 
 > **Note**
-> <div style="text-align: justify"> The ratio of cycle infrasctucture to public roads, is an indicator of road coverage by cycle infrastructure. The extended cycle infrastructure used in the numerator considered: cycle tracks, shared pedestrians (cycle and pedestrian paths), cycle lanes, limited access roads, bus lanes and cycle streets. While the road newtork used in the denominator was calculated by integrating main roads plus local roads . The local roads were selected using the following tags ["residential", "living_street", "unclassified"].  Please visit our methodology section to obtain more insights on the data processing. </div>
+> <div style="text-align: justify"> The ratio of cycle infrasctucture to public roads, is an indicator of road coverage by cycle infrastructure. The extended cycle infrastructure used in the numerator considered: cycle tracks, shared pedestrians (cycle and pedestrian paths), cycle lanes, limited access roads, bus lanes and cycle streets. While the road newtork used in the denominator was calculated by integrating main roads plus local roads . The local roads were selected using the following tags: residential, living street, unclassified.  Please visit our methodology section to obtain more insights on the data processing. </div>
 <br>
 
 <iframe src= "Images/Ratio extended cycle infrastructure over public roads.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
