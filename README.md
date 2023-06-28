@@ -11,7 +11,7 @@ Do not forget to visit of website
 
 # Overview of the database
 
-<iframe src= "https://www.canva.com/design/DAFnF87NRm8/ao0YdwIw61MW3tXOO-Codg/watch?utm_content=DAFnF87NRm8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
+![](Images/37.png)
 
 # The Methodology
 
