@@ -13,10 +13,9 @@ Do not forget to visit of website
 ![](Images/37.png)
 
 #  Results
+[Ratio of segregated cycle infrastructure to main roads](#Ratio-of-segregated-cycle-infrastructure-to-main-roads)
 
-
-
-## Ratio of segregated cycle infrastructure to main roads
+## [Ratio of segregated cycle infrastructure to main roads]
 
 > **Note**
 > <div style="text-align: justify">The ratio of segregated cycle infrasctucture to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as "motorway","trunk", "primary","secondary",  "tertiary","motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link" in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
@@ -283,7 +282,7 @@ If you dessire to access a more detailed map per country please click in any of 
 <br>
 
 
-<iframe src="Images/Aditional data.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="Images/Aditional data.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 <br>
 
@@ -291,7 +290,7 @@ If you dessire to access a more detailed map per country please click in any of 
 
 <br>
 
-<iframe src="Visualization/Europe_map_C.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="Visualization/Europe_map_C.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](Visualization/AL/AL_map_C.html)
  | 
