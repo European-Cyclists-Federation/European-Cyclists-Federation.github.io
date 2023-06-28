@@ -12,18 +12,14 @@ Do not forget to visit of website
 # Overview 
 ![](Images/37.png)
 
+#  Results
 
 
 
-# General Results
-
-<iframe src="https://european-cyclists-federation.github.io/Images/chart1.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
-
-# Maps Visualization
-
-You can consult the different type of data collected in the following maps.
 
 ## [A1: Ratio of segregated cycle infrastructure to main roads](Visualization/Europe_map_A1.html)
+
+<iframe src="https://european-cyclists-federation.github.io/Images/chart1.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
 
