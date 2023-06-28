@@ -28,7 +28,7 @@ Do not forget to visit of website
 <iframe src="https://european-cyclists-federation.github.io/Images/Ratio Segregated Cycle Infrastructure.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
- <div style="text-align: justify">The [map](Visualization/Europe_map_A1.html) is colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.</div>
+The [map](Visualization/Europe_map_A1.html) is colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
  <br>
 
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
@@ -108,6 +108,7 @@ Do not forget to visit of website
  |
 [UK](Visualization/UK/UK_map_A1.html)
  |
+<br>
 
 ## Ratio of cycle infrastructure to all public roads
 
@@ -118,7 +119,7 @@ Do not forget to visit of website
 <iframe src= "Images/Ratio extended cycle infrastructure over public roads.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
-<div style="text-align: justify">The [map](Visualization/Europe_map_A2.html) presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total  cycle infrastructure. By clicking in the circles, a bar plot with the types of infrastructure will be displayed along with a link to explore the details.</div>
+The [map](Visualization/Europe_map_A2.html) presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total  cycle infrastructure. By clicking in the circles, a bar plot with the types of infrastructure will be displayed along with a link to explore the details.
 <br>
 
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A2.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
@@ -207,7 +208,7 @@ Do not forget to visit of website
 <iframe src="Images/Cycle tracks km surface.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
-<div style="text-align: justify">The [map](Visualization/Europe_map_B.html) presents the ratio of cycle tracks over the main roads. The map presents two layers one for the amount of cycle tracks, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the surface types will be displayed along with a link to explore the details. </div>
+The [map](Visualization/Europe_map_B.html) presents the ratio of cycle tracks over the main roads. The map presents two layers one for the amount of cycle tracks, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the surface types will be displayed along with a link to explore the details.
 <br>
 
 <iframe src="Visualization/Europe_map_B.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
@@ -294,19 +295,16 @@ If you dessire to access a more detailed map per country please click in any of 
 
   > **Note**
 > <div style="text-align: justify"> The % of aditional data, is an indicator of completeness of OSM tags. The nominator includes the average of roads lenght that include surface, smoothness and width tag. Please visit our methodology section to obtain more insights on the data processing. </div>
-
 <br>
-
 
 <iframe src="Images/Aditional data.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
-
 <br>
 
-<div style="text-align: justify"> The [map](Visualization/Europe_map_C.html) presents the shared amount of aditional data from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.</div>
-
+The [map](Visualization/Europe_map_C.html) presents the shared amount of aditional data from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.
 <br>
 
 <iframe src="Visualization/Europe_map_C.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
 [AL](Visualization/AL/AL_map_C.html)
  | 
@@ -381,24 +379,18 @@ If you dessire to access a more detailed map per country please click in any of 
 [TR](Visualization/TR/TR_map_C.html)
  |
 [UK](Visualization/UK/UK_map_C.html)
-
 <br>
-<br>
-<br>
-
 
 ##  Contraflow cycling
 
   > **Note**
 > <div style="text-align: justify"> The contraflow cycling, is a ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Please visit our methodology section to obtain more insights on the data processing.  </div>
-
 <br>
 
 <iframe src= "Images/Ratio Contraflow.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
 <div style="text-align: justify">The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  </div>
-
 <br>
 
 <iframe src="Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
@@ -477,7 +469,8 @@ If you dessire to access a more detailed map per country please click in any of 
 [TR](Visualization/TR/TR_map_D.html)
  |
 [UK](Visualization/UK/UK_map_D.html)
- 
+ <br>
+
 ## Metadata 
 
 [Metadata](https://ajchavez94.github.io/another-page.html)
