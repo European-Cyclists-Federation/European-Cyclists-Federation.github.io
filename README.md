@@ -390,7 +390,7 @@ The [map](Visualization/Europe_map_C.html) presents the shared amount of adition
 <iframe src= "Images/Ratio Contraflow.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
-<div style="text-align: justify">The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  </div>
+The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  
 <br>
 
 <iframe src="Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
