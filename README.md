@@ -284,7 +284,7 @@ If you dessire to access a more detailed map per country please click in any of 
 
 <div style="text-align: justify"> The [map](Europe_level/Europe_map_C.html) presents the shared amount of aditional data from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.</div>
 
-<iframe src="Visualization/Europe_map_C.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="Visualization/Europe_map_C.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
 [AL](Visualization/AL/AL_map_C.html)
  | 
