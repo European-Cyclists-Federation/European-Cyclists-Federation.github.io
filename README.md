@@ -280,9 +280,16 @@ If you dessire to access a more detailed map per country please click in any of 
   > **Note**
 > <div style="text-align: justify"> The % of aditional data, is an indicator of completeness of OSM tags. The nominator includes the average of roads lenght that include surface, smoothness and width tag. Please visit our methodology section to obtain more insights on the data processing. </div>
 
+<br>
+
+
 <iframe src="Images/Aditional data.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
-<div style="text-align: justify"> The [map](Europe_level/Europe_map_C.html) presents the shared amount of aditional data from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.</div>
+<br>
+
+<div style="text-align: justify"> The [map](Visualization/Europe_map_C.html) presents the shared amount of aditional data from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.</div>
+
+<br>
 
 <iframe src="Visualization/Europe_map_C.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
@@ -367,7 +374,7 @@ If you dessire to access a more detailed map per country please click in any of 
 
 <iframe src= "Images/Ratio Contraflow.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
-<div style="text-align: justify">The [map](Europe_level/Europe_map_D.html presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  </div>
+<div style="text-align: justify">The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  </div>
 
 <iframe src="Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
@@ -394,8 +401,6 @@ If you dessire to access a more detailed map per country please click in any of 
 [EL](Visualization/EL/EL_map_D.html)
  |
 [ES](Visualization/ES/ES_map_D.html)
- |
-[ES_canary_islands](Visualization/ES_canary_islands/ES_canary_islands_map_D.html)
  |
 [FI](Visualization/FI/FI_map_D.html)
  |
