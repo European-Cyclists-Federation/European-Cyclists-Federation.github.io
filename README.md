@@ -109,7 +109,7 @@ Do not forget to visit of website
 
 <iframe src= "Images/Ratio extended cycle infrastructure over public roads.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
-> <div style="text-align: justify">The [map](Visualization/Europe_map_A2.html) presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total  cycle infrastructure. By clicking in the circles, a bar plot with the types of infrastructure will be displayed along with a link to explore the details.</div>
+<div style="text-align: justify">The [map](Visualization/Europe_map_A2.html) presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total  cycle infrastructure. By clicking in the circles, a bar plot with the types of infrastructure will be displayed along with a link to explore the details.</div>
 
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A2.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
@@ -282,7 +282,7 @@ If you dessire to access a more detailed map per country please click in any of 
 
 <iframe src="Images/Aditional data.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
-> <divThe [map](Europe_level/Europe_map_C.html) presents the shared amount of aditional data from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.</div>
+<div style="text-align: justify"> The [map](Europe_level/Europe_map_C.html) presents the shared amount of aditional data from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering mouse over a specific area you can find out the detailed statistics for this area.</div>
 
 <iframe src="Visualization/Europe_map_C.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
@@ -367,8 +367,7 @@ If you dessire to access a more detailed map per country please click in any of 
 
 <iframe src= "Images/Ratio Contraflow.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
-
-The [map](Europe_level/Europe_map_D.html presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  
+<div style="text-align: justify">The [map](Europe_level/Europe_map_D.html presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  </div>
 
 <iframe src="Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 
