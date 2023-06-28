@@ -13,18 +13,26 @@ Do not forget to visit of website
 ![](Images/37.png)
 
 #  Results
-[Ratio of segregated cycle infrastructure to main roads](#Ratio-of-segregated-cycle-infrastructure-to-main-roads)
+- Click here to go section [Ratio of segregated cycle infrastructure to main roads](#Ratio-of-segregated-cycle-infrastructure-to-main-roads)
+- Click here to go section [Ratio of cycle infrastructure to all public roads](#Ratio-of-cycle-infrastructure-to-all-public-roads)
+- Click here to go section [Cycle tracks surfaces](#Cycle-tracks-surfaces)
+- Click here to go section [Aditional data](#Aditional-data)
+- Click here to go section [Contraflow cycling](#Contraflow-cycling)
 
-## [Ratio of segregated cycle infrastructure to main roads]
+## Ratio of segregated cycle infrastructure to main roads
 
 > **Note**
 > <div style="text-align: justify">The ratio of segregated cycle infrasctucture to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructure considered are: cycle tracks, shared pedestrians (cycle and pedestrian paths) and cycle lanes. While the road newtork was calculated by integrating highways labeled as "motorway","trunk", "primary","secondary",  "tertiary","motorway_link", "trunk_link", "primary_link", "secondary_link", "tertiary_link" in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
+<br>
 
 <iframe src="https://european-cyclists-federation.github.io/Images/Ratio Segregated Cycle Infrastructure.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
  <div style="text-align: justify">The [map](Visualization/Europe_map_A1.html) is colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.</div>
- 
+ <br>
+
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
 [AL](Visualization/AL/AL_map_A1.html)
  | 
@@ -101,16 +109,20 @@ Do not forget to visit of website
 [UK](Visualization/UK/UK_map_A1.html)
  |
 
-### Ratio of cycle infrastructure to all public roads
+## Ratio of cycle infrastructure to all public roads
 
 > **Note**
 > <div style="text-align: justify"> The ratio of cycle infrasctucture to public roads, is an indicator of road coverage by cycle infrastructure. The extended cycle infrastructure used in the nomitator considered: cycle tracks, shared pedestrians (cycle and pedestrian paths), cycle lanes, limited access roads, bus lanes and cycle streets. While the road newtork used in the denominator was calculated by integrating main roads plus local roads . The local roads were selected using the following tags ["residential", "living_street", "unclassified"].  Please visit our methodology section to obtain more insights on the data processing. </div>
+<br>
 
 <iframe src= "Images/Ratio extended cycle infrastructure over public roads.html" height="400" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
 <div style="text-align: justify">The [map](Visualization/Europe_map_A2.html) presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total  cycle infrastructure. By clicking in the circles, a bar plot with the types of infrastructure will be displayed along with a link to explore the details.</div>
+<br>
 
 <iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A2.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
 [AL](Visualization/AL/AL_map_A2.html)
  | 
@@ -190,12 +202,16 @@ Do not forget to visit of website
 
   > **Note**
 > <div style="text-align: justify"> The ratio of cycle tracks to main roads, is an indicator of road coverage by cycle infrastructure. Only cycle tracks lenght was used in the nominator. While the road newtork used in the denominator was calculated by integrating main roads. The different types of surfaces were grouped according to ECS criteria. Please visit our methodology section to obtain more insights on the data processing.</div>
+<br>
 
 <iframe src="Images/Cycle tracks km surface.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
 <div style="text-align: justify">The [map](Visualization/Europe_map_B.html) presents the ratio of cycle tracks over the main roads. The map presents two layers one for the amount of cycle tracks, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the surface types will be displayed along with a link to explore the details. </div>
+<br>
 
 <iframe src="Visualization/Europe_map_B.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
 If you dessire to access a more detailed map per country please click in any of the following links:
 
@@ -274,7 +290,7 @@ If you dessire to access a more detailed map per country please click in any of 
 [UK](Visualization/UK/UK_map_B.html)
 
 
-## Aditional Data
+## Aditional data
 
   > **Note**
 > <div style="text-align: justify"> The % of aditional data, is an indicator of completeness of OSM tags. The nominator includes the average of roads lenght that include surface, smoothness and width tag. Please visit our methodology section to obtain more insights on the data processing. </div>
@@ -366,16 +382,27 @@ If you dessire to access a more detailed map per country please click in any of 
  |
 [UK](Visualization/UK/UK_map_C.html)
 
-##  Contraflow cycling(Europe_level/Europe_map_D.html
+<br>
+<br>
+<br>
+
+
+##  Contraflow cycling
 
   > **Note**
 > <div style="text-align: justify"> The contraflow cycling, is a ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Please visit our methodology section to obtain more insights on the data processing.  </div>
 
+<br>
+
 <iframe src= "Images/Ratio Contraflow.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
 <div style="text-align: justify">The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Areas are coloured in line with the ranging values of the ratio.  </div>
 
+<br>
+
 <iframe src="Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
 
 [AL](Visualization/AL/AL_map_D.html)
  | 
