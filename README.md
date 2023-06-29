@@ -31,7 +31,7 @@ Do not forget to visit of website
 The [map](Visualization/Europe_map_A1.html) is colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking in the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
  <br>
 
-<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
 [AL](Visualization/AL/AL_map_A1.html)
@@ -122,7 +122,7 @@ The [map](Visualization/Europe_map_A1.html) is colored to represent the magnitud
 The [map](Visualization/Europe_map_A2.html) presents two layers one for the amount of cycle infrastructure, the bubble map indicates the total infrastructure and a barplot of the different types of infrastructure. The maps are colored to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total  cycle infrastructure. By clicking in the circles, a bar plot with the types of infrastructure will be displayed along with a link to explore the details.
 <br>
 
-<iframe src="https://ajchavez94.github.io/Visualization/Europe_map_A2.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="Visualization/Europe_map_A2.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
 [AL](Visualization/AL/AL_map_A2.html)
