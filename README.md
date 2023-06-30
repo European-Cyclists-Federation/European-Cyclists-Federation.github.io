@@ -477,7 +477,7 @@ The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way s
 
 # The Methodology
 
-The methodology can be accesed through this [link](https://link-url-here.org)
+The methodology can be accesed through this [link](Documents/QECIO 2 methodology.pdf)
 
 # Built With
 
