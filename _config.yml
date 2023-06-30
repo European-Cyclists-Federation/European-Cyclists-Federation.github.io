@@ -3,7 +3,7 @@ title: [Welcome to the ECF QECIO 2.0]
 description: We are back with the second edition of Quantifying Europe’s Cycling Infrastructure using OpenStreetMap! 
 logo: /ecf.jpg
 
-show_downloads: True
+show_downloads: False
 google_analytics: 
 
 theme: jekyll-theme-cayman
