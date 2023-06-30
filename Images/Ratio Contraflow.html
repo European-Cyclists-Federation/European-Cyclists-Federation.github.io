@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-d938ed73eacc4736c5cfe5a37ce0ada8"}, "mark": {"type": "bar"}, "encoding": {"tooltip": [{"field": "Ratio (%)", "type": "quantitative"}], "x": {"axis": {"labels": true}, "field": "Ratio (%)", "title": "Ratio (%)", "type": "quantitative"}, "y": {"field": "Country", "type": "nominal"}}, "height": 800, "title": "Ratio Contraflow", "width": 500, "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json", "datasets": {"data-d938ed73eacc4736c5cfe5a37ce0ada8": [{"Country": "Albania", "Ratio (%)": 0.4}, {"Country": "Austria", "Ratio (%)": 30.3}, {"Country": "Belgium", "Ratio (%)": 51.6}, {"Country": "Bulgaria", "Ratio (%)": 0.1}, {"Country": "Switzerland", "Ratio (%)": 21.2}, {"Country": "Cyprus", "Ratio (%)": 0.0}, {"Country": "Czech Republic", "Ratio (%)": 6.2}, {"Country": "Germany", "Ratio (%)": 19.1}, {"Country": "Denmark", "Ratio (%)": 14.1}, {"Country": "Estonia", "Ratio (%)": 0.6}, {"Country": "Greece", "Ratio (%)": 0.1}, {"Country": "Spain", "Ratio (%)": 0.3}, {"Country": "Finland", "Ratio (%)": 3.8}, {"Country": "France", "Ratio (%)": 10.2}, {"Country": "Croatia", "Ratio (%)": 1.3}, {"Country": "Hungary", "Ratio (%)": 10.4}, {"Country": "Ireland", "Ratio (%)": 3.1}, {"Country": "Iceland", "Ratio (%)": 0.2}, {"Country": "Italy", "Ratio (%)": 0.6}, {"Country": "Liechtenstein", "Ratio (%)": 10.6}, {"Country": "Lithuania", "Ratio (%)": 3.5}, {"Country": "Luxembourg", "Ratio (%)": 15.6}, {"Country": "Latvia", "Ratio (%)": 1.8}, {"Country": "Montenegro", "Ratio (%)": 1.4}, {"Country": "Macedonia", "Ratio (%)": 0.2}, {"Country": "Malta", "Ratio (%)": 1.7}, {"Country": "Netherlands", "Ratio (%)": 55.7}, {"Country": "Norway", "Ratio (%)": 8.3}, {"Country": "Poland", "Ratio (%)": 8.5}, {"Country": "Portugal", "Ratio (%)": 0.2}, {"Country": "Romania", "Ratio (%)": 0.1}, {"Country": "Serbia", "Ratio (%)": 0.2}, {"Country": "Sweden", "Ratio (%)": 4.5}, {"Country": "Slovenia", "Ratio (%)": 6.9}, {"Country": "Slovakia", "Ratio (%)": 3.9}, {"Country": "Turkey", "Ratio (%)": 0.0}, {"Country": "United Kingdom", "Ratio (%)": 4.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
