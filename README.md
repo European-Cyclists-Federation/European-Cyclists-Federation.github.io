@@ -1,4 +1,4 @@
-
+<style> body { text-align: justify; } </style>
 
 # Quantifying Europe’s Cycling Infrastructure using OpenStreetMap (QECIO) 
 
