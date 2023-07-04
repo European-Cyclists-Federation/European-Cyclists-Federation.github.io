@@ -30,8 +30,13 @@ Do not forget to visit of website
 
 The [map](Visualization/Europe_map_A1.html) is coloured to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking on the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
  <br>
+ 
 
 <iframe src="Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
+*** Interested in the spatial data used to construct the maps?. The available GeoPackages can be accessed in the Metadata, in the (cyclenetwork folder)["Metadata/Cyclenetworks"].***
+<br>
+If you want to visualize the maps at country level in full screen, please clic in the following links.
 <br>
 
 [AL](Visualization/AL/AL_map_A1.html)
@@ -123,6 +128,10 @@ The [map](Visualization/Europe_map_A2.html) is coloured to represent the magnitu
 <br>
 
 <iframe src="Visualization/Europe_map_A2.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
+*** Interested in the spatial data used to construct the maps?. The available GeoPackages can be accessed in the Metadata, in the (cyclenetwork folder)["Metadata/Cyclenetworks"].***
+<br>
+If you want to visualize the maps at country level in full screen, please clic in the following links.
 <br>
 
 [AL](Visualization/AL/AL_map_A2.html)
@@ -394,6 +403,10 @@ The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way s
 <br>
 
 <iframe src="Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<br>
+*** Interested in the spatial data used to construct the maps?. The available GeoPackages can be accessed in the Metadata, in the (local roads folder)["Metadata/Local_roads"].***
+<br>
+If you want to visualize the maps at country level in full screen, please clic in the following links.
 <br>
 
 [AL](Visualization/AL/AL_map_D.html)
