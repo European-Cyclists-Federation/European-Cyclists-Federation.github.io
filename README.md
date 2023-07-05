@@ -503,9 +503,9 @@ If you want to visualize the maps at country level in full screen, please clic i
 ** Interested in the spatial data used to construct the maps?. The available GeoPackages of the local road networks can be sent upon request to the [authors](#Authors).**
 <br>
 
-## Metadata 
+# Metadata 
 
-[Metadata](https://european-cyclists-federation.github.io/another-page.html)
+Please clicl in the following link to be redirected to the [Metadata page](https://european-cyclists-federation.github.io/another-page.html). Contains files for further analysis.
 
 # The Methodology
 
