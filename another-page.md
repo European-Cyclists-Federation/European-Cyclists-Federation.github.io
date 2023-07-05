@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QECIO 2.0.: Meta Data
+title: Metadata (QECIO 2.0)
 description: Here you can find useful datasets of the data analyzed.
 ---
 
