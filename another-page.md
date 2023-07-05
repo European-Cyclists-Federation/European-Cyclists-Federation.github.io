@@ -8,8 +8,8 @@ description: Here you can find useful datasets of the data analyzed.
 Here you can access available gpkg, , click on the link to access the documents available per country. Then clic in the dataset of your interest and click on three dots in the upper right, then download. 
 
 ### Cyclenetworks
-[AL](Metadata/Cyclenetworks/AL)<br>
-[AT](Metadata/Cyclenetworks/AT)<br>
+[AL](Metadata/Cyclenetworks/AL)
+[AT](Metadata/Cyclenetworks/AT)
 [BE](Metadata/Cyclenetworks/BE)<br>
 [BG](Metadata/Cyclenetworks/BG)<br>
 [CH](Metadata/Cyclenetworks/CH)<br>
