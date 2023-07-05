@@ -36,9 +36,10 @@ The [map](Visualization/Europe_map_A1.html) is coloured to represent the magnitu
 <iframe src="Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
-<div class="alert-info">
+My important paragraph.
+{: .alert .alert-info}
 Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the (cyclenetwork folder)["Metadata/Cyclenetworks"] in the [Medatada](#Medatada).
-</div>
+
 <br>
 
 If you want to visualize the maps at country level in full screen, please clic in the following links.
