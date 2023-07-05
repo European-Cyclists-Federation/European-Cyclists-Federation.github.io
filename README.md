@@ -8,16 +8,6 @@ This project correspond to second edition of Quantifying Europe's Cycling Infras
 
 Do not forget to visit our [ECF website](https://ecf.com/). 
 
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-</div>
-
 # Overview 
 ![](Images/37.png)
 
@@ -44,13 +34,6 @@ The [map](Visualization/Europe_map_A1.html) is coloured to represent the magnitu
  <br>
  
 <iframe src="Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
-<br>
-
-
-<div class="alert alert-block alert-info"> <b>NOTE</b> 
-Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the <a href="Metadata/Cyclenetworks"> folder cyclenetworks </a>
-in the <a href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
-</div>
 <br>
 
 If you want to visualize the maps at country level in full screen, please clic in the following links.
@@ -131,6 +114,11 @@ If you want to visualize the maps at country level in full screen, please clic i
 [UK](Visualization/UK/UK_map_A1.html)
  |
 <br>
+<div class="alert alert-block alert-info"> <b>NOTE</b> 
+Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders </a>
+in the <a href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
+</div>
+<br>
 
 ## Ratio of cycle infrastructure to all public roads
 
@@ -148,10 +136,6 @@ The [map](Visualization/Europe_map_A2.html) is coloured to represent the magnitu
 <br>
 
 <iframe src="Visualization/Europe_map_A2.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
-
-<div class="alert-info">
-Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the (cyclenetwork folder)["Metadata/Cyclenetworks"] in the [Medatada](#Medatada).
-</div>
 
 If you want to visualize the maps at country level in full screen, please clic in the following links.
 <br>
@@ -229,6 +213,11 @@ If you want to visualize the maps at country level in full screen, please clic i
 [TR](Visualization/TR/TR_map_A2.html)
  |
 [UK](Visualization/UK/UK_map_A2.html)
+
+<div class="alert alert-block alert-info"> <b>NOTE</b> 
+Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders </a>
+in the <a href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
+</div>
  |
 ##  Cycle tracks surfaces
 
@@ -238,7 +227,7 @@ If you want to visualize the maps at country level in full screen, please clic i
 
 The left barchart ilustrates the top 15 countries with highest ratios of cycle tracks over main roads. The right barchart ilustrates the share of surface type found in the cycle tracks.  Each color represent the share of different infrastructure types. By hovering the mouse, aditional information is displayed.  
 <br>
-<br>
+
 <iframe src="Images/Cycle tracks km surface.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
@@ -513,6 +502,11 @@ If you want to visualize the maps at country level in full screen, please clic i
 [UK](Visualization/UK/UK_map_D.html)
  <br>
 
+<div class="alert alert-block alert-info"> <b>NOTE</b> 
+Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders </a>
+in the <a href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
+</div>
+<br>
 ## Metadata 
 
 [Metadata](https://european-cyclists-federation.github.io/another-page.html)
