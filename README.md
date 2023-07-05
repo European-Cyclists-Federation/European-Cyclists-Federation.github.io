@@ -12,11 +12,11 @@ Do not forget to visit our [ECF website](https://ecf.com/).
 ![](Images/37.png)
 
 #  Shortcuts
-- Click here to go section [Ratio of segregated cycle infrastructure to main roads](#Ratio-of-segregated-cycle-infrastructure-to-main-roads)
-- Click here to go section [Ratio of cycle infrastructure to all public roads](#Ratio-of-cycle-infrastructure-to-all-public-roads)
-- Click here to go section [Cycle tracks surfaces](#Cycle-tracks-surfaces)
-- Click here to go section [Aditional data](#Aditional-data)
-- Click here to go section [Contraflow cycling](#Contraflow-cycling)
+- [Ratio of segregated cycle infrastructure to main roads](#Ratio-of-segregated-cycle-infrastructure-to-main-roads)
+- [Ratio of cycle infrastructure to all public roads](#Ratio-of-cycle-infrastructure-to-all-public-roads)
+- [Cycle tracks surfaces](#Cycle-tracks-surfaces)
+- [Aditional data](#Aditional-data)
+- [Contraflow cycling](#Contraflow-cycling)
 
 ## Ratio of segregated cycle infrastructure to main roads
 
