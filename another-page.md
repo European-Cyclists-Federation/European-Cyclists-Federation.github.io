@@ -33,9 +33,9 @@ Here you can access available gpkg, documents for relevant NUTS 3 area, click on
 [TR](Metadata/Cyclenetworks/TR)
 [UK](Metadata/Cyclenetworks/UK)
 
->> ** Important **
->### By request we can provide the csv files with the results summarized. 
->### By request we can provide files with the 
+> ** Important **
+> By request we can provide the csv files with the results summarized. 
+> By request we can provide files with the 
 
 _ECF_
 
