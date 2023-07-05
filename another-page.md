@@ -4,8 +4,9 @@ title: QECIO 2.0.: Meta Data
 description: Here you can find useful datasets of the data analyzed.
 ---
 
-## Interested in the datasets of your region? 
-Here you can access available gpkg, , click on the link to access the documents available per country. Then clic in the dataset of your interest and click on three dots in the upper right, then download. 
+## Metada.
+
+Here you can access available GeoPackages. Select the country, and then clic in the dataset of interest. To download click on the three dots on the right corner. 
 
 ### Cyclenetworks
 [AL](Metadata/Cyclenetworks/AL)
