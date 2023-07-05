@@ -8,6 +8,9 @@ This project correspond to second edition of Quantifying Europe's Cycling Infras
 
 Do not forget to visit our [ECF website](https://ecf.com/). 
 
+<div class="alert alert-block alert-info"> <b>NOTE</b> Use blue boxes for Tips and notes. </div>
+
+
 # Overview 
 ![](Images/37.png)
 
