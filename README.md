@@ -115,8 +115,8 @@ If you want to visualize the maps at country level in full screen, please clic i
  |
 <br>
 <div class="alert alert-block alert-info"> <b>NOTE</b> 
-Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders </a>
-in the <a href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
+Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders in the </a>
+href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
 </div>
 <br>
 
