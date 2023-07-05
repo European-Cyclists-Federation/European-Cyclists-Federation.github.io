@@ -1,19 +1,19 @@
 ---
 layout: default
 title: Metadata (QECIO 2.0)
-description: Here you can find useful datasets of the data analyzed.
+description: Here you can find useful datasets to explore the data by yourself.
 ---
 
 ## Metada.
 
-Here you can access available GeoPackages. Select the country, and then clic in the dataset of interest. To download click on the three dots on the right corner. 
+Access to available GeoPackages. Select the country, and then clic in the dataset of interest. To download click on the three dots on the right corner. 
 
-> ** Important **
+> **Important**
 > By request we can provide the csv files with the results summarized. Likewise we can provide the files with the local networks used in the analysis.
 > Just send an email to Aleksander Buczyński (a.buczynski@ecf.com) or Andrea Chavez (a.chavez@ecf.com). 
 
 ### Cyclenetworks
-[AL](Metadata/Cyclenetworks/AL)
+[AL](Metadata/Cyclenetworks/AL/)
 [AT](Metadata/Cyclenetworks/AT)
 [BE](Metadata/Cyclenetworks/BE)<br>
 [BG](Metadata/Cyclenetworks/BG)<br>
