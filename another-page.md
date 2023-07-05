@@ -34,8 +34,8 @@ Here you can access available gpkg, , click on the link to access the documents 
 [UK](Metadata/Cyclenetworks/UK)<br>
 
 > ** Important **
-> By request we can provide the csv files with the results summarized. 
-> By request we can provide files with the 
+> By request we can provide the csv files with the results summarized. Likewise we can provide the files with the local networks used in the analysis.
+> Just send an email to Aleksander Buczyński (a.buczynski@ecf.com) or Andrea Chavez (a.chavez@ecf.com). 
 
 _ECF_
 
