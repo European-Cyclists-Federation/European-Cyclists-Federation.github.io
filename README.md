@@ -421,9 +421,7 @@ The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way s
 <br>
 
 <iframe src="Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
-<br>
-*** Interested in the spatial data used to construct the maps?. The available GeoPackages of the local road networks can be sent upon request to the [authors](#Authors).***
-<br>
+
 If you want to visualize the maps at country level in full screen, please clic in the following links.
 <br>
 
@@ -503,8 +501,9 @@ If you want to visualize the maps at country level in full screen, please clic i
  <br>
 
 <div class="alert alert-block alert-info"> <b>NOTE</b> 
-Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders </a>
-in the <a href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
+<br>
+** Interested in the spatial data used to construct the maps?. The available GeoPackages of the local road networks can be sent upon request to the [authors](#Authors).**
+<br>.
 </div>
 <br>
 ## Metadata 
