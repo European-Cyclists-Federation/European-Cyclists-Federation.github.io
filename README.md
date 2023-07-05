@@ -522,4 +522,8 @@ The methodology can be accesed through this [link](Documents/QECIO 2 methodology
 
 with the kind support of [Agilitic](https://www.agilytic.be/)
 
-
+<style>
+.alert-info {
+  color: rgb(49,112,143) !important;
+}
+</style>
