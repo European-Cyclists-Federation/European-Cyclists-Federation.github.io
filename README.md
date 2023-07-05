@@ -404,7 +404,7 @@ The [map](Visualization/Europe_map_D.html) presents the ratio of local one-way s
 
 <iframe src="Visualization/Europe_map_D.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
-*** Interested in the spatial data used to construct the maps?. The available GeoPackages can be accessed in the Metadata, in the (local roads folder)["Metadata/Local_roads"].***
+*** Interested in the spatial data used to construct the maps?. The available GeoPackages of the local road networks can be sent upon request to the [authors](#Authors).***
 <br>
 If you want to visualize the maps at country level in full screen, please clic in the following links.
 <br>
@@ -499,12 +499,9 @@ The methodology can be accesed through this [link](Documents/QECIO 2 methodology
 
 # Authors
 
-  - **Aleksander Buczyński** - 
-  - **Andrea Chavez-Pacheco**- [@ajchavez94](https://github.com/ajchavez94)
+  - **Aleksander Buczyński** - [a.buczynski@ecf.com](a.buczynski@ecf.com)
+  - **Andrea Chavez-Pacheco**- [a.chavez@ecf.com](a.chavez@ecf.com)
 
 with the kind support of [Agilitic](https://www.agilytic.be/)
 
-## Acknowledgments
-
-  - 
 
