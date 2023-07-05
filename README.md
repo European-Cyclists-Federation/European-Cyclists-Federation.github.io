@@ -112,10 +112,10 @@ If you want to visualize the maps at country level in full screen, please clic i
 [TR](Visualization/TR/TR_map_A1.html)
  |
 [UK](Visualization/UK/UK_map_A1.html)
- |
 <br>
+
 <div class="alert alert-block alert-info"> <b>NOTE</b> 
-Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders in the </a>
+Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders in the <a
 href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
 </div>
 <br>
@@ -215,10 +215,10 @@ If you want to visualize the maps at country level in full screen, please clic i
 [UK](Visualization/UK/UK_map_A2.html)
 
 <div class="alert alert-block alert-info"> <b>NOTE</b> 
-Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders </a>
+Interested in the spatial data to explore results?. The cyclenetworks are available in GeoPackages format, and can be accessed in the cyclenetworks folders
 in the <a href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
 </div>
- |
+ 
 ##  Cycle tracks surfaces
 
   > **Definition**
@@ -500,12 +500,9 @@ If you want to visualize the maps at country level in full screen, please clic i
 [UK](Visualization/UK/UK_map_D.html)
  <br>
 
-<div class="alert alert-block alert-info"> <b>NOTE</b> 
-<br>
 ** Interested in the spatial data used to construct the maps?. The available GeoPackages of the local road networks can be sent upon request to the [authors](#Authors).**
-<br>.
-</div>
 <br>
+
 ## Metadata 
 
 [Metadata](https://european-cyclists-federation.github.io/another-page.html)
@@ -516,8 +513,7 @@ The methodology can be accesed through this [link](Documents/QECIO 2 methodology
 
 # Built With
 
-  - [GitHub Pages](https://www.contributor-covenant.org/) 
-
+  - [GitHub Pages](https://pages.github.com/) 
 
 # Authors
 
