@@ -508,7 +508,7 @@ Interested in the spatial data to explore results?. The local road networks can 
 
 # Metadata 
 
-Please clicl in the following link to be redirected to the [Metadata page](https://european-cyclists-federation.github.io/another-page.html). Contains files for further analysis.
+Please click in the following link to be redirected to the [Metadata page](https://european-cyclists-federation.github.io/another-page.html). The page contains files for further analysis.
 
 # The Methodology
 
@@ -523,7 +523,7 @@ The methodology can be accesed through this [link](Documents/QECIO 2 methodology
   - **Aleksander Buczyński** - [a.buczynski@ecf.com](a.buczynski@ecf.com)
   - **Andrea Chavez-Pacheco**- [a.chavez@ecf.com](a.chavez@ecf.com)
 
-with the kind support of [Agilitic](https://www.agilytic.be/)
+with technical assistance from [Agilitic](https://www.agilytic.be/) as part of [1% for the Planet program](https://onepercentfortheplanet.org/).
 
 <style>
 .alert-info {
