@@ -30,7 +30,7 @@ The barchart ilustrates the top 20 countries with highest ratios of segregated c
 <iframe src="https://european-cyclists-federation.github.io/Images/Ratio Segregated Cycle Infrastructure.html" height="500" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
-The [map](Visualization/Europe_map_A1.html) is coloured to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the sirze of the dots are proportional to the cycle infrastructure. By clicking on the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
+The [map](Visualization/Europe_map_A1.html) is coloured to represent the magnitude of the metric of interest. By hovering the mouse over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots are proportional to the cycle infrastructure. By clicking on the circles, a bar plot with the types of analyzed infrastructure types will be displayed along with a link to explore the details.
  <br>
  
 <iframe src="Visualization/Europe_map_A1.html" height="800" width="800" name="iframe_a" title="Iframe Example"></iframe>
