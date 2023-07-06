@@ -314,10 +314,10 @@ If you dessire to access a more detailed map per country please click in any of 
 [UK](Visualization/UK/UK_map_B.html)
 
 
-## Aditional data
+## Availaibility of aditional data
 
   > **Definition**
-> <div style="text-align: justify"> The availability of aditional data, is an indicator of completeness of OSM tags. We analyzed how many cycle tracks, shared tracks, cycle lanes and limited access roads were tagged with either surface, smoothnes and width information. The numerator includes the average of roads length that include surface, smoothness and width tag. Please visit our methodology section to obtain more insights on the data processing. </div>
+> <div style="text-align: justify"> The availability of aditional data, is an indicator of completeness of OSM tags. We analyzed how many cycle tracks, shared tracks, cycle lanes and limited access roads were tagged with either surface, smoothnes and width information. The metric is the average of roads length that include surface, smoothness and width tag. Please visit our methodology section to obtain more insights on the data processing. </div>
 <br>
 
 The barchart ilustrates the top 20 countries with highest completeness of OSM tags in the infrastructure analyzed. By hovering the mouse, aditional information is displayed.  
