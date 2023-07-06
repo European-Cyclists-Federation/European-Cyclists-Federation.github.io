@@ -7,6 +7,7 @@ description: Here you can find useful datasets to explore the data by yourself.
 ## Metada.
 
 Access to available GeoPackages. Select the country, and a zip file will download with all the NUTS 3 of the country. We are working on providing links to each NUTS3. 
+![](/Images/spatial_data.png)
 
 > **Important**
 > By request we can provide the csv files with the results summarized. Likewise we can provide the files with the local networks used in the analysis.
