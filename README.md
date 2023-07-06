@@ -500,11 +500,10 @@ If you want to visualize the maps at country level in full screen, please clic i
 [UK](Visualization/UK/UK_map_D.html)
  <br>
 
-** Interested in the spatial data used to construct the maps?. The available GeoPackages of the local road networks can be sent upon request to the [authors](#Authors).**
 <br>
 <div class="alert alert-block alert-info"> <b>NOTE</b> 
-Interested in the spatial data to explore results?. The local road networks can be sent upon request to the .
-</div> [authors](#Authors)
+Interested in the spatial data to explore results?. The local road networks can be sent upon request to the authors .
+</div> 
 
 # Metadata 
 
