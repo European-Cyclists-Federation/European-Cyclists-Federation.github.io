@@ -412,7 +412,7 @@ The [map](Visualization/Europe_map_C.html) presents the shared amount of adition
 > <div style="text-align: justify"> The contraflow cycling, is a ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Please visit our methodology section to obtain more insights on the data processing.  </div>
 <br>
 
-The barchart ilustrates the top 20 countries with highest ration of contraflow cycling. By hovering the mouse, aditional information is displayed.  
+The barchart ilustrates the top 20 countries with highest ratio of contraflow cycling. By hovering the mouse, aditional information is displayed.  
 <br>
 <iframe src= "Images/Ratio Contraflow.html" height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 <br>
