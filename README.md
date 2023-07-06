@@ -322,7 +322,7 @@ If you want to access a more country-specific detailed map, please click any of 
 
 The bar chart illustrates the 20 countries with the highest completeness of OSM tags in the infrastructure analysed. By hovering the cursor, additional information is displayed.  
 <br>
-<iframe src="Images/Additional data.html" height="500" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="Images/Aditional data.html" height="500" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
 The [map](Visualization/Europe_map_C.html) presents the shared amount of additional data available from OSM. Areas are coloured in line with the average share of these tags in all cycle infrastructure in the area, and by hovering the cursor over a specific area you can find the detailed statistics for this area. In adition, if you click on the circles, a barchart with the share of tags in a certain area is displayed.
