@@ -519,8 +519,9 @@ The methodology can be accessed through this [link](Documents/QECIO 2 methodolog
 
 # Authors
 
-  - **Aleksander Buczyński** - [a.buczynski@ecf.com](a.buczynski@ecf.com)
   - **Andrea Chavez-Pacheco**- [a.chavez@ecf.com](a.chavez@ecf.com)
+  - **Aleksander Buczyński** - [a.buczynski@ecf.com](a.buczynski@ecf.com)
+  - **Eleanor Denneman**
 
 with technical assistance from [Agilitic](https://www.agilytic.be/) as part of [1% for the Planet program](https://onepercentfortheplanet.org/).
 
