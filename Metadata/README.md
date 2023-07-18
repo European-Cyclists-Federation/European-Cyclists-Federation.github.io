@@ -27,7 +27,7 @@ Cyclenetworks were created the 03-07-2023.
 4. Aditional information.
 Please visit our methodology to understand our logical thinking to filter the cyclenetworks.
 
-#Sharing and Accessing Information
+# Sharing and Accessing Information
 1. Restrictions.
 Please take into account that this version corresponds to a soft launch, data needs to be optimised before
 sharing with a bigger audience.
