@@ -48,7 +48,7 @@ Non established yet.
 1. Description of methods used.
 Please visit our methodology website in our [GitHub site](https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/blob/main/Documents/QECIO%202%20methodology.pdf).
 
-## Data available
+# Data available
 
 Access to available GeoPackages. Select the country, and a zip file will download with all the NUTS 3 of the country. We are working on providing links to each NUTS3. 
 
@@ -56,11 +56,11 @@ Access to available GeoPackages. Select the country, and a zip file will downloa
 > By request we can provide the csv files with the results summarized. Likewise we can provide the files with the local networks used in the analysis.
 > Just send an email to Aleksander Buczyński (a.buczynski@ecf.com) or Andrea Chavez (a.chavez@ecf.com). 
 
-### Cyclenetworks
+## Cyclenetworks
 <details>
   <summary> Albania </summary>
 
- #### [Albania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL) 
+ ### [Albania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL) 
 
   - [Berat](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Berat-cycle_network.gpkg)
  - [Dibër](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Diber-cycle_network.gpkg)
