@@ -75,14 +75,9 @@ Access to available GeoPackages. Select the country, and a zip file will downloa
 - [Tiranë](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Tirane-cycle_network.gpkg)
 - [Vlorë](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Vlore-cycle_network.gpkg)
 
-
-<details>
-
-  <summary> Austria </summary>
-[Austria](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AT )
-
 </details>
 
+[Austria](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AT )
 [Belgium](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/BE )
 [Bulgaria](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/BG )
 [Switzerland](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/CH )
