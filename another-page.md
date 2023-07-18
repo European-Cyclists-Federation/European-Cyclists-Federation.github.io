@@ -59,7 +59,7 @@ Access to available GeoPackages. Select the country, and a zip file will downloa
 ### Cyclenetworks
 <details>
   <summary> Albania </summary>
-##### [Albania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL 
+#### [Albania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL 
 
   - [Berat](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Berat-cycle_network.gpkg)
  - [Dibër](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Diber-cycle_network.gpkg)
@@ -73,8 +73,10 @@ Access to available GeoPackages. Select the country, and a zip file will downloa
 - [Shkodër](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Shkoder-cycle_network.gpkg)
 - [Tiranë](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Tirane-cycle_network.gpkg)
 - [Vlorë](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Vlore-cycle_network.gpkg)
-- 
-  <details>
+
+<details>
+
+  <summary> Austraia </summary>
 
 [Austria](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AT )
 [Belgium](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/BE )
