@@ -57,30 +57,8 @@ Access to available GeoPackages. Select the country, and a zip file will downloa
 > Just send an email to Aleksander Buczyński (a.buczynski@ecf.com) or Andrea Chavez (a.chavez@ecf.com). 
 
 ## Cyclenetworks
-<details>
-  <summary> Albania </summary>
 
- ### [Albania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL) 
-    <p>
-     <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
-     <p>
-  - [Berat](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Berat-cycle_network.gpkg)
- - [Dibër](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Diber-cycle_network.gpkg)
-     <p>
-
- - [Durrës](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Durres-cycle_network.gpkg)
-- [Elbasan](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Elbasan-cycle_network.gpkg)
-- [Fier](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Fier-cycle_network.gpkg)
-- [Gjirokastër](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Gjirokaster-cycle_network.gpkg)
-- [Korcë](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Korce-cycle_network.gpkg)
-- [Kukës](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Kukes-cycle_network.gpkg)
-- [Lezhë](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Lezhe-cycle_network.gpkg)
-- [Shkodër](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Shkoder-cycle_network.gpkg)
-- [Tiranë](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Tirane-cycle_network.gpkg)
-- [Vlorë](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL/Vlore-cycle_network.gpkg)
-
-</details>
-
+[Albania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL) 
 [Austria](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AT )
 [Belgium](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/BE )
 [Bulgaria](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/BG )
