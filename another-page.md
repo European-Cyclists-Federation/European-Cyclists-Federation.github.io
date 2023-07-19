@@ -5,7 +5,7 @@ description: Here you can find useful datasets to explore the data by yourself.
 ---
 
 # Metadata
-To access to the information please visit [Metadata](Documents/Metadata.pbf)
+To access to the information please visit [Metadata](Documents/Metadata.pdf)
 
 # Methodology
 For description of methods used. Please visit our methodology website in our [GitHub site](https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/blob/main/Documents/QECIO%202%20methodology.pdf).
