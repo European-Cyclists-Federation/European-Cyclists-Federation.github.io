@@ -507,7 +507,9 @@ Interested in the spatial data to explore the results?. The local road networks 
 
 # Metadata 
 
-Please click the following link to be redirected to the [Metadata page](https://european-cyclists-federation.github.io/another-page.html). The page contains files for further analysis.
+Please click the following link to be redirected to the [Metadata page](Doments/Metadata.pdf). The page contains files for further analysis.
+
+# Downloads
 
 # The Methodology
 
