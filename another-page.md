@@ -7,7 +7,7 @@ description: Here you can find the datasets used in the Quantifying Europe's Cyc
 # Documentation
 
 - [Metadata](Documents/Metadata.pdf)
-- [Methodology](Documents/QECIO%202%20methodology.pdf).
+- [Methodology](Documents/QECIO%202%20methodology.pdf)
 
 # Data available
 
@@ -17,7 +17,7 @@ description: Here you can find the datasets used in the Quantifying Europe's Cyc
 
 ## Cycle networks
 
-Access to available GeoPackages (GPKG). Select the country, and a zip file will download with all the NUTS 3 regions of the country. We are working on providing links to each NUTS 3 separately.
+Select the country, and a zip file will download with GeoPackages (GPKG) with cycle networks (the cycle infrastructure we extracted from OSM) for each of the NUTS 3 regions of the country. We are working on providing links to each NUTS 3 separately.
 
 - [Albania](Metadata/Cyclenetworks/AL) 
 - [Austria](Metadata/Cyclenetworks/AT )
@@ -51,7 +51,7 @@ Access to available GeoPackages (GPKG). Select the country, and a zip file will 
 - [Portugal](Metadata/Cyclenetworks/PT )
 - [Romania](Metadata/Cyclenetworks/RO )
 - [Serbia](Metadata/Cyclenetworks/RS )
-- [sweden](Metadata/Cyclenetworks/SE )
+- [Sweden](Metadata/Cyclenetworks/SE )
 - [Slovenia](Metadata/Cyclenetworks/SI )
 - [Slovakia](Metadata/Cyclenetworks/SK )
 - [Turkey](Metadata/Cyclenetworks/TR )
