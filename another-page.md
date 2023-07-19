@@ -1,64 +1,64 @@
 ---
 layout: default
 title: QECIO (2.0) Downloads
-description: Here you can find useful datasets to explore the data by yourself.
+description: Here you can find the datasets used in the Quantifying Europe's Cycling Infrastructure using OpenStreetMap dashboard and download them to explore and visualise the data by yourself.
 ---
 
-# Metadata
-To access to the information please visit [Metadata](Documents/Metadata.pdf)
+# Documentation
 
-# Methodology
-For description of methods used. Please visit our methodology website in our [GitHub site](https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/blob/main/Documents/QECIO%202%20methodology.pdf).
+- [Metadata](Documents/Metadata.pdf)
+- [Methodology](Documents/QECIO%202%20methodology.pdf).
 
 # Data available
 
-Access to available GeoPackages. Select the country, and a zip file will download with all the NUTS 3 of the country. We are working on providing links to each NUTS3. 
+## Numbers only
 
-> **Important**
-> By request we can provide the csv files with the results summarized. Likewise we can provide the files with the local networks used in the analysis.
-> Just send an email to Aleksander Buczyński (a.buczynski@ecf.com) or Andrea Chavez (a.chavez@ecf.com). 
+> add a link to the CSV file with all the results 
 
-## Cyclenetworks
+## Cycle networks
 
-[Albania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AL) 
-[Austria](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/AT )
-[Belgium](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/BE )
-[Bulgaria](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/BG )
-[Switzerland](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/CH )
-[Cyprus](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/CY )
-[Czech Republic](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/CZ )
-[Germany](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/DE )
-[Denmark](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/DK )
-[Estonia](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/EE )
-[Greece](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/EL )
-[Spain](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/ES )
-[Finland](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/FI )
-[France](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/FR )
-[Croatia](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/HR )
-[Hungary](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/HU )
-[Ireland](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/IE )
-[Iceland](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/IS )
-[Italy](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/IT )
-[Liechtenstein](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/LI )
-[Lithuania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/LT )
-[Luxembourg](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/LU )
-[Latvia](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/LV )
-[Montenegro](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/ME )
-[Macedonia](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/MK )
-[Malta](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/MT )
-[Netherlands](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/NL )
-[Norway](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/NO )
-[Poland](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/PL )
-[Portugal](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/PT )
-[Romania](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/RO )
-[Serbia](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/RS )
-[sweden](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/SE )
-[Slovenia](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/SI )
-[Slovakia](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/SK )
-[Turkey](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/TR )
-[United Kingdom](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/European-Cyclists-Federation/European-Cyclists-Federation.github.io/tree/main/Metadata/Cyclenetworks/UK )
+Access to available GeoPackages (GPKG). Select the country, and a zip file will download with all the NUTS 3 regions of the country. We are working on providing links to each NUTS 3 separately.
 
-_ECF_
+- [Albania](Metadata/Cyclenetworks/AL) 
+- [Austria](Metadata/Cyclenetworks/AT )
+- [Belgium](Metadata/Cyclenetworks/BE )
+- [Bulgaria](Metadata/Cyclenetworks/BG )
+- [Switzerland](Metadata/Cyclenetworks/CH )
+- [Cyprus](Metadata/Cyclenetworks/CY )
+- [Czech Republic](Metadata/Cyclenetworks/CZ )
+- [Germany](Metadata/Cyclenetworks/DE )
+- [Denmark](Metadata/Cyclenetworks/DK )
+- [Estonia](Metadata/Cyclenetworks/EE )
+- [Greece](Metadata/Cyclenetworks/EL )
+- [Spain](Metadata/Cyclenetworks/ES )
+- [Finland](Metadata/Cyclenetworks/FI )
+- [France](Metadata/Cyclenetworks/FR )
+- [Croatia](Metadata/Cyclenetworks/HR )
+- [Hungary](Metadata/Cyclenetworks/HU )
+- [Ireland](Metadata/Cyclenetworks/IE )
+- [Iceland](Metadata/Cyclenetworks/IS )
+- [Italy](Metadata/Cyclenetworks/IT )
+- [Liechtenstein](Metadata/Cyclenetworks/LI )
+- [Lithuania](Metadata/Cyclenetworks/LT )
+- [Luxembourg](Metadata/Cyclenetworks/LU )
+- [Latvia](Metadata/Cyclenetworks/LV )
+- [Montenegro](Metadata/Cyclenetworks/ME )
+- [Macedonia](Metadata/Cyclenetworks/MK )
+- [Malta](Metadata/Cyclenetworks/MT )
+- [Netherlands](Metadata/Cyclenetworks/NL )
+- [Norway](Metadata/Cyclenetworks/NO )
+- [Poland](Metadata/Cyclenetworks/PL )
+- [Portugal](Metadata/Cyclenetworks/PT )
+- [Romania](Metadata/Cyclenetworks/RO )
+- [Serbia](Metadata/Cyclenetworks/RS )
+- [sweden](Metadata/Cyclenetworks/SE )
+- [Slovenia](Metadata/Cyclenetworks/SI )
+- [Slovakia](Metadata/Cyclenetworks/SK )
+- [Turkey](Metadata/Cyclenetworks/TR )
+- [United Kingdom](Metadata/Cyclenetworks/UK )
 
+## Local road networks
+
+Geopackages with local road networks (to verify our contraflow analysis) can be provided upon request to a.buczynski@ecf.com.
 
 [back](./)
