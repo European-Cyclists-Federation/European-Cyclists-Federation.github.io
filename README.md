@@ -510,7 +510,7 @@ Interested in the spatial data to explore the results?. The local road networks 
 Please click the following link to be redirected to the [Metadata page](Documents/Metadata.pdf). The page contains files for further analysis.
 
 # Downloads
-Please visit our download page. [Downloads](https://european-cyclists-federation.github.io/another-page.md)
+Please visit our download page. [Downloads](https://european-cyclists-federation.github.io/another-page.html)
 
 # The Methodology
 
