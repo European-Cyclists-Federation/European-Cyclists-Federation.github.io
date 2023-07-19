@@ -314,7 +314,7 @@ If you want to access a more country-specific detailed map, please click any of 
 [UK](Visualization/UK/UK_map_B.html)
 
 
-## Availaibility of aditional data
+## Availaibility of additional data
 
   > **Definition**
 > <div style="text-align: justify"> The availability of aditional data, is an indicator of the completeness of OSM tags. We analysed how many cycle tracks, shared tracks, cycle lanes and limited access roads were tagged according to the availability of information on surface, smoothnes and width. The metric is the average of roads tagged with surface, smoothness and width tag. Please visit our methodology section to obtain more insights on the data processing. </div>
@@ -510,6 +510,7 @@ Interested in the spatial data to explore the results?. The local road networks 
 Please click the following link to be redirected to the [Metadata page](Documents/Metadata.pdf). The page contains files for further analysis.
 
 # Downloads
+Please visit our download page. [Downloads]()
 
 # The Methodology
 
