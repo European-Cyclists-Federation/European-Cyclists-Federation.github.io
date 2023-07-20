@@ -18,7 +18,7 @@ Do not forget to visit our [ECF website](https://ecf.com/).
 - [Aditional data](#Aditional-data)
 - [Contraflow cycling](#Contraflow-cycling)
 
-## Ratio of segregated cycle infrastructure to main roads
+## Ratio of segregated cycling infrastructure to main roads
 https://european-cyclists-federation.github.io/Images/Ratio_of_segregated_cycling_infrastructure_to_main_roads.html
 https://european-cyclists-federation.github.io/Images/Ratio_of_extended_cycling_infrastructure_to_public_roads.html
 https://european-cyclists-federation.github.io/Images/Cycle_tracks_ratio_and_surface.html
@@ -124,7 +124,7 @@ href="https://european-cyclists-federation.github.io/another-page.html"> Metadat
 </div>
 <br>
 
-## Ratio of cycle infrastructure to all public roads
+## Ratio of extended cycling infrastructure to public roads
 
 > **Definition**
 > <div style="text-align: justify"> The ratio of cycle infrastructure to public roads, is an indicator of road coverage by cycle infrastructure. The extended cycle infrastructure used in the numerator were: cycle tracks, shared tracks (cycle and pedestrian tracks), cycle lanes, limited access roads, bus lanes and cycle streets. The length of the road network used in the denominator was calculated by adding main roads plus local roads . The local roads were selected from roads tagged as: residential, living street, unclassified.  Please visit our methodology section to obtain more insights on the data processing. </div>
@@ -224,7 +224,7 @@ Interested in the spatial data to explore the results?. The cyclenetworks are av
 in the <a href="https://european-cyclists-federation.github.io/another-page.html"> Metadata page </a> .
 </div>
  
-##  Cycle tracks surfaces
+##  Ratio cycle tracks to main roads (plus additional information on surfaces)
 
   > **Definition**
 > <div style="text-align: justify"> The ratio of cycle tracks to main roads, is an indicator of road coverage by cycle infrastructure. Only cycle tracks length was used in the numerator. The road network used in the denominator was calculated by adding main roads. The different types of surfaces were grouped according to European Certification Standard (ECS) criteria. Please visit our methodology section to obtain more insights on the data processing.</div>
@@ -413,7 +413,7 @@ The [map](Visualization/Europe_map_C.html) presents the shared amount of additio
 [UK](Visualization/UK/UK_map_C.html)
 <br>
 
-##  Contraflow cycling
+##  Ratio of contraflow cycling
 
   > **Definition**
 > <div style="text-align: justify"> Contraflow cycling, is a ratio of local one-way streets with contraflow cycling allowed to the total length of local one-way streets. Please visit our methodology section to obtain more insights on the data processing.  </div>
