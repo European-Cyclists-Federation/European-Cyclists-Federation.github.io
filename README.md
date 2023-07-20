@@ -15,15 +15,15 @@ Do not forget to visit our [ECF website](https://ecf.com/).
 - [Ratio of segregated cycle infrastructure to main roads](#Ratio-of-segregated-cycle-infrastructure-to-main-roads)
 - [Ratio of cycle infrastructure to all public roads](#Ratio-of-cycle-infrastructure-to-all-public-roads)
 - [Cycle tracks surfaces](#Cycle-tracks-surfaces)
-- [Aditional data](#Aditional-data)
+- [Aditional data](#Available_additional-data)
 - [Contraflow cycling](#Contraflow-cycling)
 
 ## Ratio of segregated cycling infrastructure to main roads
-https://european-cyclists-federation.github.io/Images/Ratio_of_segregated_cycling_infrastructure_to_main_roads.html
-https://european-cyclists-federation.github.io/Images/Ratio_of_extended_cycling_infrastructure_to_public_roads.html
+https://european-cyclists-federation.github.io/Images/Ratio_segregated_cycling_infrastructure_to_main_roads.html
+https://european-cyclists-federation.github.io/Images/Ratio_extended_cycling_infrastructure_to_public_roads.html
 https://european-cyclists-federation.github.io/Images/Cycle_tracks_ratio_and_surface.html
-https://european-cyclists-federation.github.io/Images/Availability_of_additional_data.html
-https://european-cyclists-federation.github.io/Images/Ratio_of_contraflow_cycling.html
+https://european-cyclists-federation.github.io/Images/Availability_additional_data.html
+https://european-cyclists-federation.github.io/Images/Ratio_contraflow_cycling.html
 > **Definition**
 > <div style="text-align: justify">The ratio of segregated cycle infrastructure to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructures considered are: cycle tracks, shared pedestrians tracks (cycle and pedestrian) and cycle lanes. While the road network was calculated by adding highways labeled as motorway, trunk, primary, secondary, tertiary, motorway link, trunk link, primary link, secondary link and tertiary link in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
 <br>
