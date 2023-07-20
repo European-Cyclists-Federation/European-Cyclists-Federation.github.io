@@ -19,7 +19,7 @@ Now we have everything in ECF website! So do not pay to much attention to this w
 - [Aditional data](#Available_additional-data)
 - [Contraflow cycling](#Contraflow-cycling)
 
-## Ratio of segregated cycling infrastructure to main roads
+## Ratio of segregated cycling infrastructure to the main road network
 
 > **Definition**
 > <div style="text-align: justify">The ratio of segregated cycle infrastructure to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructures considered are: cycle tracks, shared pedestrians tracks (cycle and pedestrian) and cycle lanes. While the road network was calculated by adding highways labeled as motorway, trunk, primary, secondary, tertiary, motorway link, trunk link, primary link, secondary link and tertiary link in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
@@ -28,7 +28,7 @@ Now we have everything in ECF website! So do not pay to much attention to this w
 The bar chart illustrates the 20 countries with the highest ratios of segregated cycle infrastructure to main roads. Each colour represents the share of different infrastructure type. By hovering the cursor over the chart, additional information is displayed.  
 <br>
 
-<iframe src="https://european-cyclists-federation.github.io/Images/Ratio_of_segregated_cycling_infrastructure_to_main_roads.html" height="500" width="800" name="iframe_a" title="Iframe Example"></iframe>
+<iframe src="Images/Ratio_of_segregated_cycling_infrastructure_to_main_road_network.html" height="500" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
 The [map](Visualization/Europe_map_A1.html) is coloured to represent the magnitude of the metric of interest. By hovering the cursor over the area of interest the tooltip will display the main metrics. Similarly, the size of the dots is proportional to the total length of the cycle infrastructure. By clicking on the circles, a bar plot with the types of analysed infrastructure types will be displayed along with a link to explore the details.
@@ -130,7 +130,7 @@ href="https://european-cyclists-federation.github.io/another-page.html"> Metadat
 The bar chart illustrates the 20 countries with the highest ratios of cycle infrastructure to all public roads. Each colour represent the share of different infrastructure types. By hovering the cursor, additional information is displayed.  
 <br>
 
-<iframe src= "https://european-cyclists-federation.github.io/Images/Ratio_of_extended_cycling_infrastructure_to_public_roads.html"
+<iframe src= "Images/Ratio_of_extended_cycling_infrastructure_to_public_roads.html"
  height="500" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
@@ -230,7 +230,7 @@ in the <a href="https://european-cyclists-federation.github.io/another-page.html
 The left bar chart ilustrates the 20 countries with highest ratios of cycle tracks over main roads. The right bar chart ilustrates the share of surface type found in the cycle tracks.  Each colour represent the share of different infrastructure types. By hovering the cursor, aditional information is displayed.  
 <br>
 
-<iframe src="https://european-cyclists-federation.github.io/Images/Cycle_tracks_ratio_and_surface.html
+<iframe src="Images/Cycle_tracks_ratio_and_surface.html
 " height="500" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
@@ -325,7 +325,7 @@ If you want to access a more country-specific detailed map, please click any of 
 
 The bar chart illustrates the 20 countries with the highest completeness of OSM tags in the infrastructure analysed. By hovering the cursor, additional information is displayed.  
 <br>
-<iframe src="https://european-cyclists-federation.github.io/Images/Availability_of_additional_data.html
+<iframe src="Images/Availability_of_additional_data.html
 " height="500" width="800" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
@@ -418,7 +418,7 @@ The [map](Visualization/Europe_map_C.html) presents the shared amount of additio
 
 The barchart ilustrates the 20 countries with the highest ratio of contraflow cycling. By hovering the cursor over the chart, additional information is displayed.  
 <br>
-<iframe src= "https://european-cyclists-federation.github.io/Images/Ratio_of_contraflow_cycling.html"
+<iframe src= "Images/Ratio_of_contraflow_cycling.html"
  height="500" width="700" name="iframe_a" title="Iframe Example"></iframe>
 <br>
 
