@@ -23,7 +23,7 @@ Do not forget to visit our [ECF website](https://ecf.com/).
 https://european-cyclists-federation.github.io/Images/Ratio_of_segregated_cycling_infrastructure_to_main_roads.html
 https://european-cyclists-federation.github.io/Images/Ratio_of_extended_cycling_infrastructure_to_public_roads.html
 https://european-cyclists-federation.github.io/Images/Cycle_tracks_ratio_and_surface.html
-https://european-cyclists-federation.github.io/Images/Availability_additional_data.html
+https://european-cyclists-federation.github.io/Images/Available_additional_data.html
 https://european-cyclists-federation.github.io/Images/Ratio_of_contraflow_cycling.html
 > **Definition**
 > <div style="text-align: justify">The ratio of segregated cycle infrastructure to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructures considered are: cycle tracks, shared pedestrians tracks (cycle and pedestrian) and cycle lanes. While the road network was calculated by adding highways labeled as motorway, trunk, primary, secondary, tertiary, motorway link, trunk link, primary link, secondary link and tertiary link in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
