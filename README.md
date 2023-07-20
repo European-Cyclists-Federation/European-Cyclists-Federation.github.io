@@ -7,7 +7,8 @@ There is great demand for data on cycling infrastructure, but currently, no offi
 This project is the second edition of Quantifying Europe's Cycling Infrastructure using Open Street Map (QECIO 2.0.). To access the results from the previous edition click [here](https://datastudio.google.com/u/0/reporting/81d2904d-7db5-4ed5-98e0-85af75b46577/page/p_qsvwe0yluc).
 
 Do not forget to visit our [ECF website](https://ecf.com/). 
-
+# Attention
+Now we have everything in ECF website! So do not pay to much attention to this website.
 # Overview 
 ![](Images/37.png)
 
@@ -20,12 +21,6 @@ Do not forget to visit our [ECF website](https://ecf.com/).
 
 ## Ratio of segregated cycling infrastructure to main roads
 
-https://european-cyclists-federation.github.io/Images/Ratio_of_segregated_cycling_infrastructure_to_main_roads.html
-#
-https://european-cyclists-federation.github.io/Images/Ratio_of_extended_cycling_infrastructure_to_public_roads.html
-https://european-cyclists-federation.github.io/Images/Cycle_tracks_ratio_and_surface.html
-https://european-cyclists-federation.github.io/Images/Availability_additional_data.html
-https://european-cyclists-federation.github.io/Images/Ratio_of_contraflow_cycling.html
 > **Definition**
 > <div style="text-align: justify">The ratio of segregated cycle infrastructure to main roads, is an indicator of road coverage by cycle infrastructure. The segregated cycle infrastructures considered are: cycle tracks, shared pedestrians tracks (cycle and pedestrian) and cycle lanes. While the road network was calculated by adding highways labeled as motorway, trunk, primary, secondary, tertiary, motorway link, trunk link, primary link, secondary link and tertiary link in OSM. Please visit our methodology section to obtain more insights on the data processing. </div>
 <br>
