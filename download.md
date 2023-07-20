@@ -7,13 +7,13 @@ description: Here you can find the datasets used in the Quantifying Europe's Cyc
 # Documentation
 
 - [Metadata](Documents/Metadata.pdf)
-- [Methodology](Documents/QECIO%202%20methodology.pdf)
+- [Methodology](Documents/Methodology.pdf)
 
 # Data available
 
 ## Numbers only
 
-> add a link to the CSV file with all the results 
+- [CSV summary](Download/Summary/Summary-all.csv)
 
 ## Cycle networks
 
