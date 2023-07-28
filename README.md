@@ -11,9 +11,9 @@ This project is the second edition of Quantifying Europe's Cycling Infrastructur
 # Overview 
 ![](Images/37.png)
 
-# Attention
-We have moved our results to our ECF website:
-Please visit it [here](https://ecf.com/quantifying-europe-cycling-infrastructure-using-openstreetmap-qecio-2)
+# Results 
+> Attention!
+> We have moved our results to our [ECF website](https://ecf.com/quantifying-europe-cycling-infrastructure-using-openstreetmap-qecio-2)
 
 # Metadata 
 
