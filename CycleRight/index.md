@@ -1,7 +1,7 @@
 ---
 layout: cycleright
-title: ECF Cycling Infrastructure Tracker for CycleRight
-description: Cycle infrastructure data extracted from OpenStreetMap for the purpose of the CycleRight project - DRAFT
+title: CycleRight Infrastructure Territorial Analysis
+description: Data extracted by the ECF Cycling Infrastructure Tracker from OpenStreetMap for the purpose of the CycleRight project - DRAFT
 ---
 
 # Maps
