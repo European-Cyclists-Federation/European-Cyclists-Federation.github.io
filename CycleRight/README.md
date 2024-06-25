@@ -1,18 +1,19 @@
 ---
 layout: default
 title: ECF Cycle Infrastructure Tracker for CycleRight
+description: Cycle infrastructure data extracted from OpenStreetMap for the purpose of the CycleRight project
 ---
+
+# Maps
+
+- [Segregated cycling infrastructure](CycleRight_map_A1.html)
+- [Extended cycling infrastructure](CycleRight_map_A2.html)
+- [Cycle tracks and surfaces](CycleRight_map_B.html)
+- [Availability of additional data](CycleRight_map_C.html)
+- [Contraflow cycling](CycleRight_map_D.html)
 
 # Documentation
 
 - [Metadata](Documents/Metadata.pdf)
 - [Methodology](Documents/Methodology.pdf)
-
-# Maps
-
-- [Ratio of segregated cycling infrastructure to main roads](CycleRight_map_A1.html)
-- [Ratio of extended cycling infrastructure to public roads](CycleRight_map_A2.html)
-- [Ratio of cycle tracks to main roads (plus information on surfaces)](CycleRight_map_B.html)
-- [Availability of additional data](CycleRight_map_C.html)
-- [Ratio of contraflow cycling](CycleRight_map_D.html)
 
