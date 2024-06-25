@@ -1,7 +1,7 @@
 ---
-layout: default
-title: ECF Cycle Infrastructure Tracker for CycleRight
-description: Cycle infrastructure data extracted from OpenStreetMap for the purpose of the CycleRight project
+layout: cycleright
+title: ECF Cycling Infrastructure Tracker for CycleRight
+description: Cycle infrastructure data extracted from OpenStreetMap for the purpose of the CycleRight project - DRAFT
 ---
 
 # Maps
@@ -14,6 +14,9 @@ description: Cycle infrastructure data extracted from OpenStreetMap for the purp
 
 # Documentation
 
-- [Metadata](Documents/Metadata.pdf)
-- [Methodology](Documents/Methodology.pdf)
+- [Metadata](../Documents/Metadata.pdf)
+- [Methodology](../Documents/Methodology.pdf)
 
+# See also
+
+- [ECF's cycling infrastructure tracker](https://ecf.com/ecf-cycling-infrastructure-tracker)
