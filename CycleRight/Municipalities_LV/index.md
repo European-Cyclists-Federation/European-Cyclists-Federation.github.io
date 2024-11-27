@@ -14,7 +14,7 @@ description: Data extracted by the ECF Cycling Infrastructure Tracker from OpenS
 
 # Documentation
 
-- [Methodology](../Documents/Methodology.pdf)
+- [Methodology](../../Documents/Methodology.pdf)
 
 # See also
 
