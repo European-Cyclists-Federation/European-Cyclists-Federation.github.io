@@ -36,4 +36,4 @@ Since OSM is an open dataset, anyone can improve the accuracy of the database, a
 
 - [ECF's cycling infrastructure tracker](https://ecf.com/ecf-cycling-infrastructure-tracker)
 
-© European Cyclists' Federation
+[© European Cyclists' Federation](https://ecf.com/)
